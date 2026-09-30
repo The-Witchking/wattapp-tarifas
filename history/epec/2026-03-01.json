@@ -1,0 +1,153 @@
+{
+  "provider": "EPEC",
+  "variant": "PARCIAL",
+  "sourceFile": "0521-089955_2026 - CT EPEC DISTRIB PARCIAL Y GD  01-mar-2026.pdf",
+  "sourceUrl": "https://drive.google.com/uc?export=download&id=1UXH5kMNn1WoMNr_-ER98Epdn_SIdF6Pq",
+  "schedule": {
+    "name": "EPEC Residencial",
+    "validFrom": "2026-03-01",
+    "minimumBillableKwh": 20.0,
+    "levels": [
+      {
+        "id": "SEF",
+        "name": "Con subsidio",
+        "ranges": [
+          {
+            "upperLimitKwh": 120.0,
+            "fixedCharge": 1589.4873,
+            "tiers": [
+              {
+                "sizeKwh": null,
+                "pricePerKwh": 100.59393
+              }
+            ]
+          },
+          {
+            "upperLimitKwh": 500.0,
+            "fixedCharge": 2207.3273,
+            "tiers": [
+              {
+                "sizeKwh": 120.0,
+                "pricePerKwh": 123.37355
+              },
+              {
+                "sizeKwh": 30.0,
+                "pricePerKwh": 161.31983
+              },
+              {
+                "sizeKwh": 150.0,
+                "pricePerKwh": 238.36815
+              },
+              {
+                "sizeKwh": null,
+                "pricePerKwh": 238.36815
+              }
+            ]
+          },
+          {
+            "upperLimitKwh": 700.0,
+            "fixedCharge": 3207.6017,
+            "tiers": [
+              {
+                "sizeKwh": 120.0,
+                "pricePerKwh": 146.5683
+              },
+              {
+                "sizeKwh": 30.0,
+                "pricePerKwh": 185.98267
+              },
+              {
+                "sizeKwh": 150.0,
+                "pricePerKwh": 263.03099
+              },
+              {
+                "sizeKwh": null,
+                "pricePerKwh": 263.03099
+              }
+            ]
+          },
+          {
+            "upperLimitKwh": null,
+            "fixedCharge": 3207.6017,
+            "tiers": [
+              {
+                "sizeKwh": 120.0,
+                "pricePerKwh": 165.13025
+              },
+              {
+                "sizeKwh": 30.0,
+                "pricePerKwh": 209.75436
+              },
+              {
+                "sizeKwh": 150.0,
+                "pricePerKwh": 286.80268
+              },
+              {
+                "sizeKwh": null,
+                "pricePerKwh": 286.80268
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "NOSEF",
+        "name": "Sin subsidio",
+        "ranges": [
+          {
+            "upperLimitKwh": 120.0,
+            "fixedCharge": 1792.6642,
+            "tiers": [
+              {
+                "sizeKwh": null,
+                "pricePerKwh": 185.3637
+              }
+            ]
+          },
+          {
+            "upperLimitKwh": 500.0,
+            "fixedCharge": 2489.48,
+            "tiers": [
+              {
+                "sizeKwh": 120.0,
+                "pricePerKwh": 211.05514
+              },
+              {
+                "sizeKwh": null,
+                "pricePerKwh": 253.85192
+              }
+            ]
+          },
+          {
+            "upperLimitKwh": 700.0,
+            "fixedCharge": 3617.615,
+            "tiers": [
+              {
+                "sizeKwh": 120.0,
+                "pricePerKwh": 237.21477
+              },
+              {
+                "sizeKwh": null,
+                "pricePerKwh": 281.6673
+              }
+            ]
+          },
+          {
+            "upperLimitKwh": null,
+            "fixedCharge": 3617.615,
+            "tiers": [
+              {
+                "sizeKwh": 120.0,
+                "pricePerKwh": 258.14941
+              },
+              {
+                "sizeKwh": null,
+                "pricePerKwh": 308.47763
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

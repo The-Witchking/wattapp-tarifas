@@ -1,0 +1,161 @@
+{
+  "provider": "EPEC",
+  "variant": "PARCIAL",
+  "sourceFile": "0521-096017_2026 - CT EPEC DISTRIB PARCIAL Y GD  01-sep-2026.pdf",
+  "sourceUrl": "https://drive.google.com/uc?export=download&id=1VRBd7gla2H-q1KiTGp3uALl-vmqCbNLp",
+  "schedule": {
+    "name": "EPEC Residencial",
+    "validFrom": "2026-09-01",
+    "minimumBillableKwh": 20.0,
+    "levels": [
+      {
+        "id": "SEF",
+        "name": "Con subsidio",
+        "ranges": [
+          {
+            "upperLimitKwh": 120.0,
+            "fixedCharge": 1847.307,
+            "tiers": [
+              {
+                "sizeKwh": null,
+                "pricePerKwh": 111.87372
+              }
+            ]
+          },
+          {
+            "upperLimitKwh": 500.0,
+            "fixedCharge": 2565.3626,
+            "tiers": [
+              {
+                "sizeKwh": 120.0,
+                "pricePerKwh": 138.34827
+              },
+              {
+                "sizeKwh": 30.0,
+                "pricePerKwh": 182.44955
+              },
+              {
+                "sizeKwh": 50.0,
+                "pricePerKwh": 182.44955
+              },
+              {
+                "sizeKwh": null,
+                "pricePerKwh": 279.9628
+              }
+            ]
+          },
+          {
+            "upperLimitKwh": 700.0,
+            "fixedCharge": 3727.8846,
+            "tiers": [
+              {
+                "sizeKwh": 120.0,
+                "pricePerKwh": 165.30528
+              },
+              {
+                "sizeKwh": 30.0,
+                "pricePerKwh": 211.11278
+              },
+              {
+                "sizeKwh": 50.0,
+                "pricePerKwh": 211.11278
+              },
+              {
+                "sizeKwh": 350.0,
+                "pricePerKwh": 308.62603
+              },
+              {
+                "sizeKwh": null,
+                "pricePerKwh": 308.62603
+              }
+            ]
+          },
+          {
+            "upperLimitKwh": null,
+            "fixedCharge": 3727.8846,
+            "tiers": [
+              {
+                "sizeKwh": 120.0,
+                "pricePerKwh": 186.87803
+              },
+              {
+                "sizeKwh": 30.0,
+                "pricePerKwh": 238.74032
+              },
+              {
+                "sizeKwh": 50.0,
+                "pricePerKwh": 238.74032
+              },
+              {
+                "sizeKwh": 350.0,
+                "pricePerKwh": 336.25357
+              },
+              {
+                "sizeKwh": null,
+                "pricePerKwh": 336.25357
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "NOSEF",
+        "name": "Sin subsidio",
+        "ranges": [
+          {
+            "upperLimitKwh": 120.0,
+            "fixedCharge": 2083.4399,
+            "tiers": [
+              {
+                "sizeKwh": null,
+                "pricePerKwh": 218.36087
+              }
+            ]
+          },
+          {
+            "upperLimitKwh": 500.0,
+            "fixedCharge": 2893.2813,
+            "tiers": [
+              {
+                "sizeKwh": 120.0,
+                "pricePerKwh": 248.21954
+              },
+              {
+                "sizeKwh": null,
+                "pricePerKwh": 297.95809
+              }
+            ]
+          },
+          {
+            "upperLimitKwh": 700.0,
+            "fixedCharge": 4204.4032,
+            "tiers": [
+              {
+                "sizeKwh": 120.0,
+                "pricePerKwh": 278.62234
+              },
+              {
+                "sizeKwh": null,
+                "pricePerKwh": 330.28521
+              }
+            ]
+          },
+          {
+            "upperLimitKwh": null,
+            "fixedCharge": 4204.4032,
+            "tiers": [
+              {
+                "sizeKwh": 120.0,
+                "pricePerKwh": 302.95264
+              },
+              {
+                "sizeKwh": null,
+                "pricePerKwh": 361.44425
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
