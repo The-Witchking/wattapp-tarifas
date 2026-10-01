@@ -33,3 +33,7 @@ Publicadas: 175 de 202 con cuadro eléctrico (0 enlaces no son cuadros eléctric
 | COOPERATIVA DE TANCACHA | Se esperaban al menos 2 rangos, hay 0 |
 | COOPERATIVA DE TICINO | Se esperaban al menos 2 rangos, hay 1 |
 | COOPERATIVA DE VILLA SANTA ROSA | Se esperaban al menos 2 rangos, hay 1 |
+
+## Avisos
+
+- No se pudo leer el catálogo de ERSEP (HTTP Error 403: Forbidden); se usa el anterior
