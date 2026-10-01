@@ -1,0 +1,281 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-01T03:48:11+00:00",
+  "sources": [
+    {
+      "provider": "cooperativa-de-servicios-publicos-de-morteros-ltda",
+      "variant": "ERSEP",
+      "sourceFile": "cooperativa-de-servicios-publicos-de-morteros-ltda.pdf",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1V9eQDsPVsTlZqWicXFgEm1xY5evXxAz9",
+      "priceDate": "2026-09-01",
+      "sourceHash": "7ec2f6f9649d54450e3358836dbd9d20844d87e0a5829ec61549d3b13aa7b52d",
+      "schedule": {
+        "name": "Cooperativa de Morteros",
+        "validFrom": "2026-10-01",
+        "minimumBillableKwh": 0.0,
+        "levels": [
+          {
+            "id": "SEF",
+            "name": "Con subsidio",
+            "ranges": [
+              {
+                "upperLimitKwh": 40.0,
+                "fixedCharge": 3043.16,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 234.5
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 331.71
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 80.0,
+                "fixedCharge": 3489.59,
+                "tiers": [
+                  {
+                    "sizeKwh": 40.0,
+                    "pricePerKwh": 234.5
+                  },
+                  {
+                    "sizeKwh": 110.0,
+                    "pricePerKwh": 235.71
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 332.92
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 120.0,
+                "fixedCharge": 3489.59,
+                "tiers": [
+                  {
+                    "sizeKwh": 40.0,
+                    "pricePerKwh": 234.5
+                  },
+                  {
+                    "sizeKwh": 110.0,
+                    "pricePerKwh": 235.71
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 332.92
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 500.0,
+                "fixedCharge": 3489.59,
+                "tiers": [
+                  {
+                    "sizeKwh": 40.0,
+                    "pricePerKwh": 235.26
+                  },
+                  {
+                    "sizeKwh": 80.0,
+                    "pricePerKwh": 236.59
+                  },
+                  {
+                    "sizeKwh": 30.0,
+                    "pricePerKwh": 241.31
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 338.52
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 700.0,
+                "fixedCharge": 3489.59,
+                "tiers": [
+                  {
+                    "sizeKwh": 40.0,
+                    "pricePerKwh": 237.1
+                  },
+                  {
+                    "sizeKwh": 80.0,
+                    "pricePerKwh": 238.44
+                  },
+                  {
+                    "sizeKwh": 30.0,
+                    "pricePerKwh": 243.16
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 340.37
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 1400.0,
+                "fixedCharge": 3489.59,
+                "tiers": [
+                  {
+                    "sizeKwh": 40.0,
+                    "pricePerKwh": 238.89
+                  },
+                  {
+                    "sizeKwh": 80.0,
+                    "pricePerKwh": 240.22
+                  },
+                  {
+                    "sizeKwh": 30.0,
+                    "pricePerKwh": 244.95
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 342.16
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": null,
+                "fixedCharge": 3489.59,
+                "tiers": [
+                  {
+                    "sizeKwh": 40.0,
+                    "pricePerKwh": 242.58
+                  },
+                  {
+                    "sizeKwh": 80.0,
+                    "pricePerKwh": 243.92
+                  },
+                  {
+                    "sizeKwh": 30.0,
+                    "pricePerKwh": 248.64
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 345.85
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "NOSEF",
+            "name": "Sin subsidio",
+            "ranges": [
+              {
+                "upperLimitKwh": 40.0,
+                "fixedCharge": 3043.16,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 331.71
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 80.0,
+                "fixedCharge": 3489.59,
+                "tiers": [
+                  {
+                    "sizeKwh": 40.0,
+                    "pricePerKwh": 331.71
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 332.92
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 120.0,
+                "fixedCharge": 3489.59,
+                "tiers": [
+                  {
+                    "sizeKwh": 40.0,
+                    "pricePerKwh": 331.71
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 332.92
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 500.0,
+                "fixedCharge": 3489.59,
+                "tiers": [
+                  {
+                    "sizeKwh": 40.0,
+                    "pricePerKwh": 332.47
+                  },
+                  {
+                    "sizeKwh": 80.0,
+                    "pricePerKwh": 333.8
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 338.52
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 700.0,
+                "fixedCharge": 3489.59,
+                "tiers": [
+                  {
+                    "sizeKwh": 40.0,
+                    "pricePerKwh": 334.31
+                  },
+                  {
+                    "sizeKwh": 80.0,
+                    "pricePerKwh": 335.65
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 340.37
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 1400.0,
+                "fixedCharge": 3489.59,
+                "tiers": [
+                  {
+                    "sizeKwh": 40.0,
+                    "pricePerKwh": 336.1
+                  },
+                  {
+                    "sizeKwh": 80.0,
+                    "pricePerKwh": 337.43
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 342.16
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": null,
+                "fixedCharge": 3489.59,
+                "tiers": [
+                  {
+                    "sizeKwh": 40.0,
+                    "pricePerKwh": 339.79
+                  },
+                  {
+                    "sizeKwh": 80.0,
+                    "pricePerKwh": 341.13
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 345.85
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

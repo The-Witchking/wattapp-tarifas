@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-01T03:52:05+00:00",
+  "sources": [
+    {
+      "provider": "cooperativa-de-provision-de-obras-y-servicios-de-villa-de-maria-de-rio-seco",
+      "variant": "ERSEP",
+      "sourceFile": "cooperativa-de-provision-de-obras-y-servicios-de-villa-de-maria-de-rio-seco.pdf",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1Kt7F1ncvJdcV3GRqcLcd2j7t6YgCae6A",
+      "priceDate": "2026-09-01",
+      "sourceHash": "b28b8b971c4c53ecb604e0dc2295bd73a1e2c68f891d3f9c9742c1c06be8be1d",
+      "schedule": {
+        "name": "Cooperativa de Villa de Maria de Rio Seco",
+        "validFrom": "2026-10-01",
+        "minimumBillableKwh": 0.0,
+        "levels": [
+          {
+            "id": "SEF",
+            "name": "Con subsidio",
+            "ranges": [
+              {
+                "upperLimitKwh": 120.0,
+                "fixedCharge": 4429.97,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 260.03
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 357.24
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 500.0,
+                "fixedCharge": 4429.97,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 260.03
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 357.24
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 700.0,
+                "fixedCharge": 4429.97,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 262.36
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 359.57
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": null,
+                "fixedCharge": 4429.97,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 267.45
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 364.66
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "NOSEF",
+            "name": "Sin subsidio",
+            "ranges": [
+              {
+                "upperLimitKwh": 120.0,
+                "fixedCharge": 4429.97,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 357.24
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 500.0,
+                "fixedCharge": 4429.97,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 357.24
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 700.0,
+                "fixedCharge": 4429.97,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 359.57
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": null,
+                "fixedCharge": 4429.97,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 364.66
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

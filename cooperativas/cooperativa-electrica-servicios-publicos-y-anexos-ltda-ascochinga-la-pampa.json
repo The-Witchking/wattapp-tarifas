@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-01T04:19:21+00:00",
+  "sources": [
+    {
+      "provider": "cooperativa-electrica-servicios-publicos-y-anexos-ltda-ascochinga-la-pampa",
+      "variant": "ERSEP",
+      "sourceFile": "cooperativa-electrica-servicios-publicos-y-anexos-ltda-ascochinga-la-pampa.pdf",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1lJNotfefQQ-3RDr1n4pR7D0DOb0oKwGd",
+      "priceDate": "2026-09-01",
+      "sourceHash": "4948889d7e30f2cf1ddb8aa936acabdec0dec4c42c770a22f7ae1a969b5d98d2",
+      "schedule": {
+        "name": "Cooperativa de Ascochinga – la Pampa",
+        "validFrom": "2026-10-01",
+        "minimumBillableKwh": 0.0,
+        "levels": [
+          {
+            "id": "SEF",
+            "name": "Con subsidio",
+            "ranges": [
+              {
+                "upperLimitKwh": 500.0,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 291.1477
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 388.3577
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 700.0,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 293.9436
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 391.1536
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 1400.0,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 296.6467
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 393.8567
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": null,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 302.2389
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 399.4489
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "NOSEF",
+            "name": "Sin subsidio",
+            "ranges": [
+              {
+                "upperLimitKwh": 500.0,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 388.3577
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 700.0,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 391.1536
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 1400.0,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 393.8567
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": null,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 399.4489
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

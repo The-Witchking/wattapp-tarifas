@@ -1,0 +1,1406 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-01T04:32:07+00:00",
+  "providers": [
+    {
+      "id": "cooperativa-de-electricidad-obras-y-servicios-publicos-de-achiras-ltda",
+      "name": "Cooperativa de Achiras",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD, OBRAS Y SERVICIOS PÚBLICOS DE ACHIRAS LTDA.",
+      "area": "ACHIRAS, CUATRO VIENTOS, RODEO VIEJO, LA AGUADA",
+      "users": 1891,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electrica-limitada-de-adelia-maria",
+      "name": "Cooperativa de Adelia María",
+      "fullName": "COOPERATIVA DE ELÉCTRICA LIMITADA DE ADELIA MARÍA",
+      "area": "Adelia María, Monte de los Gauchos y Zona Rural de la Perla, Punta del Agua, La Loma, La Brianza y la Mercantil.",
+      "users": 4655,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-obras-servicios-publicos-sociales-y-desarrollo-regional-de-agua-de-oro-y-sierras-chicas-ltada",
+      "name": "Cooperativa de Agua de Oro y Sierras Chicas",
+      "fullName": "COOPERATIVA DE OBRAS, SERVICIOS PÚBLICOS, SOCIALES Y DESARROLLO REGIONAL DE AGUA DE ORO Y SIERRAS CHICAS LTDA.",
+      "area": "Agua de Oro, Comuna Cerro Azul, El Manzano.",
+      "users": 2912,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-electrica-de-obras-publicas-provision-de-servicios-sociales-y-vivienda-de-alcira-ltda",
+      "name": "Cooperativa de Alcira",
+      "fullName": "COOPERATIVA ELECTRICA DE OBRAS PUBLICAS, PROVISION DE SERVICIOS SOCIALES Y VIVIENDA DE ALCIRA LTDA.",
+      "area": "ALCIRA GIGENA",
+      "users": 3288,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-obras-y-servicios-publicos-de-alejandro-ltda",
+      "name": "Cooperativa de Alejandro",
+      "fullName": "COOPERATIVA DE OBRAS Y SERVICIOS PÚBLICOS DE ALEJANDRO LTDA.",
+      "area": "ALEJANDRO ROCA",
+      "users": 57,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-electrica-y-de-servicios-publicos-anexos-alicia-ltda",
+      "name": "Cooperativa de Alicia",
+      "fullName": "COOPERATIVA ELÉCTRICA Y DE SERVICIOS PÚBLICOS ANEXOS ALICIA LTDA.",
+      "area": "ALICIA",
+      "users": 1802,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-electrica-y-de-servicios-publicos-alma-fuerte-ltada",
+      "name": "Cooperativa de Almafuerte",
+      "fullName": "COOPERATIVA ELÉCTRICA Y DE SERVICIOS PÚBLICOS ALMAFUERTE LTDA.",
+      "area": "ALMAFUERTE",
+      "users": 5939,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-alpacorralense-de-electricidad-y-de-servicios-publicos-ltda",
+      "name": "Cooperativa de Alpa Corral",
+      "fullName": "COOPERATIVA ALPACORRALENSE DE ELECTRICIDAD Y DE SERVICIOS PÚBLICOS LTDA.",
+      "area": "Alpa Corral, Unión de los ríos, Villa Jorcoricó.",
+      "users": 1436,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-servicios-publicos-altos-de-chipion-ltada",
+      "name": "Cooperativa de Altos de Chipión",
+      "fullName": "COOPERATIVA DE SERVICIOS PÚBLICOS ALTOS DE CHIPIÓN LTADA.",
+      "area": "ALTOS DE CHIPIÓN",
+      "users": 1060,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-provision-de-obras-servicios-publicos-servicios-sociales-y-creditos-de-amboy-y-villa-amancay-ltda",
+      "name": "Cooperativa de Amboy y Villa Amancay",
+      "fullName": "COOPERATIVA DE PROVISIÓN DE OBRAS, SERVICIOS PÚBLICOS, SERVICIOS SOCIALES Y CRÉDITOS DE AMBOY Y VILLA AMANCAY LTDA.",
+      "area": "Amboy, Villa Amancay, San Ignacio.",
+      "users": 1225,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidad-obras-y-servicios-publicos-de-anisacate-ltada",
+      "name": "Cooperativa de Anisacate",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD, OBRAS Y SERVICIOS PÚBLICOS DE ANISACATE LTDA.",
+      "area": "Anisacate, Valle de Anisacate, Villa La Bolsa, Dique Chico",
+      "users": 5415,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidad-y-servicios-publicos-de-arroyito-ltda",
+      "name": "Cooperativa de Arroyito",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD Y SERVICIOS PÚBLICOS DE ARROYITO LTDA.",
+      "area": "Arroyito, La Curva, El Fuertecito y la Zona Rural de influencia.",
+      "users": 12261,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidad-obras-y-servicios-publicos-arroyo-algodon-ltda",
+      "name": "Cooperativa de Arroyo Algodón",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD, OBRAS Y SERVICIOS PÚBLICOS ARROYO ALGODÓN LTDA.",
+      "area": "Arroyo Algodón, Las Mojarras, Paraje Santa Rosa",
+      "users": 638,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-obras-y-servicios-publicos-y-sociales-de-arroyo-cabral-ltda",
+      "name": "Cooperativa de Arroyo Cabral",
+      "fullName": "COOPERATIVA DE OBRAS Y SERVICIOS PÚBLICOS Y SOCIALES DE ARROYO CABRAL LTDA.",
+      "area": "ARROYO CABRAL",
+      "users": 1659,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-electrica-servicios-publicos-y-anexos-ltda-ascochinga-la-pampa",
+      "name": "Cooperativa de Ascochinga – la Pampa",
+      "fullName": "COOPERATIVA ELÉCTRICA SERVICIOS PUBLICOS Y ANEXOS LTDA ASCOCHINGA – LA PAMPA.",
+      "area": "Ascochinga, La Pampa, Santa Catalina, Colonia Hogar, San Pelegrino, El Sauce",
+      "users": 963,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidad-servicios-publicos-vivienda-y-credito-de-ausonia-ltda",
+      "name": "Cooperativa de Ausonia",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD, SERVICIOS PÚBLICOS, VIVIENDA Y CRÉDITO DE AUSONIA LTDA.",
+      "area": "AUSONIA",
+      "users": 541,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-obras-y-servicios-publicos-ballesteros-ltda",
+      "name": "Cooperativa de Ballesteros",
+      "fullName": "COOPERATIVA DE OBRAS Y SERVICIOS PUBLICOS BALLESTEROS LTDA.",
+      "area": "Ballesteros",
+      "users": 104,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-provision-de-electricidad-obras-y-servicios-sociales-de-credito-y-vivienda-de-bengolea-ltda",
+      "name": "Cooperativa de Bengolea",
+      "fullName": "COOPERATIVA DE PROVISIÓN DE ELECTRICIDAD, OBRAS Y SERVICIOS SOCIALES DE CRÉDITO Y VIVIENDA DE BENGOLEA LTDA.",
+      "area": "Bengolea.",
+      "users": 596,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-electrica-y-de-servicios-publicos-de-benjamin-gould-ltda",
+      "name": "Cooperativa de Benjamín Gould",
+      "fullName": "COOPERATIVA ELECTRICA Y DE SERVICIOS PUBLICOS DE BENJAMÍN GOULD LTDA.",
+      "area": "Benjamín Gould – Zona Rural Alejo Ledesma – Zona Rural Arias",
+      "users": 352,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-obras-y-servicios-publicos-de-bouwer-ltda",
+      "name": "Cooperativa de Bouwer",
+      "fullName": "COOPERATIVA DE OBRAS Y SERVICIOS PUBLICOS DE BOUWER LTDA.",
+      "area": "Bouwer – Camino a San Carlos – Alto El Durazno",
+      "users": 419,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-obras-y-servicios-publicos-de-brinkmann-ltada",
+      "name": "Cooperativa de Brinkmann",
+      "fullName": "COOPERATIVA DE OBRAS Y SERVICIOS PÚBLICOS DE BRINKMANN LTDA.",
+      "area": "Brinkmann",
+      "users": 6027,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidad-obras-y-servicios-publicos-calchin-ltda",
+      "name": "Cooperativa de Calchin",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD, OBRAS Y SERVICIOS PÚBLICOS CALCHIN LTDA.",
+      "area": "CALCHIN",
+      "users": 1490,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-provision-electricidad-servicios-publicos-sociales-y-de-vivienda-calchin-oeste-ltda",
+      "name": "Cooperativa de Calchin Oeste",
+      "fullName": "COOPERATIVA DE PROVISIÓN ELECTRICIDAD, SERVICIOS PÚBLICOS, SOCIALES Y DE VIVIENDA CALCHIN OESTE LTDA.",
+      "area": "Calchin Oeste (Zonas Urbanas y Rurales).",
+      "users": 364,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-provision-de-electricidad-otros-servicios-publicos-y-vivienda-ltda-de-camilo-aldao",
+      "name": "Cooperativa de Camilo Aldao",
+      "fullName": "COOPERATIVA DE PROVISIÓN DE ELECTRICIDAD, OTROS SERVICIOS PÚBLICOS Y VIVIENDA LTDA. DE CAMILO ALDAO",
+      "area": "Camilo Aldao.",
+      "users": 2412,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-obras-y-servicios-publicos-de-canals-limitada",
+      "name": "Cooperativa de Canals",
+      "fullName": "COOPERATIVA DE OBRAS Y SERVICIOS PÚBLICOS DE CANALS LIMITADA.",
+      "area": "Canals, Aldea Santa María.",
+      "users": 4323,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-ltda-de-electricidad-obras-y-servicios-publicos-credito-y-vivienda-de-carnerillo",
+      "name": "Cooperativa de Carnerillo",
+      "fullName": "COOPERATIVA LTDA. DE ELECTRICIDAD, OBRAS Y SERVICIOS PÚBLICOS, CRÉDITO Y VIVIENDA DE CARNERILLO",
+      "area": "Carnerillo",
+      "users": 1323,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-distribucion-de-electricidad-y-aguas-corrientes-carrilobo-limitada",
+      "name": "Cooperativa de Carrilobo",
+      "fullName": "COOPERATIVA DE DISTRIBUCION DE ELECTRICIDAD Y AGUAS CORRIENTES CARRILOBO LIMITADA",
+      "area": "CARRILOBO",
+      "users": 982,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidady-servicios-publicos-de-cavanagh-limitada",
+      "name": "Cooperativa de Cavanagh",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD Y SERVICIOS PÚBLICOS DE CAVANAGH LIMITADA",
+      "area": "",
+      "users": 680,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidad-y-servicios-publicos-de-canada-de-luque-ltda",
+      "name": "Cooperativa de Cañada de Luque",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD Y SERVICIOS PUBLICOS DE CAÑADA DE LUQUE LTDA.",
+      "area": "LUQUE",
+      "users": 516,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidad-y-servicios-publicos-de-charras-ltda",
+      "name": "Cooperativa de Charras",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD Y SERVICIOS PUBLICOS DE CHARRAS LTDA.",
+      "area": "Charras – Paso el Durazno",
+      "users": 733,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-electrica-de-servicios-publicos-y-cultural-de-chilibroste-ltda",
+      "name": "Cooperativa de Chilibroste",
+      "fullName": "COOPERATIVA ELÉCTRICA DE SERVICIOS PÚBLICOS Y CULTURAL DE CHILIBROSTE LTDA.",
+      "area": "Zona Urbana y Rural de Chilibroste.",
+      "users": 336,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidad-y-servicios-publicos-de-chucul-ltda",
+      "name": "Cooperativa de Chucul",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD Y SERVICIOS PÚBLICOS DE CHUCUL LTDA.",
+      "area": "CHUCUL",
+      "users": 254,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-agua-energia-y-otros-servicios-publicos-la-union-del-pueblo-ltda",
+      "name": "Cooperativa de Cintra",
+      "fullName": "COOPERATIVA DE AGUA, ENERGIA Y OTROS SERVICIOS PUBLICOS LA UNION DEL PUEBLO LTDA.",
+      "area": "Cintra",
+      "users": 778,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-servicios-publicos-de-colazo-ltda",
+      "name": "Cooperativa de Colazo",
+      "fullName": "COOPERATIVA DE SERVICIOS PUBLICOS DE COLAZO LTDA.",
+      "area": "COLAZO",
+      "users": 705,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidad-y-servicios-publicos-de-colonia-bismarck-y-colonia-barge-ltda",
+      "name": "Cooperativa de Colonia Bismarck y Colonia Barge",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD Y SERVICIOS PUBLICOS DE COLONIA BISMARCK Y COLONIA BARGE LTDA.",
+      "area": "Colonia Bismarck – Colonia Bremen – Colonia Barge",
+      "users": 568,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-servicios-publicos-de-colonia-caroya-y-jesus-maria-ltda",
+      "name": "Cooperativa de Colonia Caroya y Jesús María",
+      "fullName": "COOPERATIVA DE SERVICIOS PÚBLICOS DE COLONIA CAROYA Y JESÚS MARÍA LTDA.",
+      "area": "Colonia Caroya, Jesús María, Sinsacate y comprende las zonas rurales de Candelaria Sur, Los Quebrachos, Nintes, Las Astillas, Los Cometierras.",
+      "users": 25230,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidad-y-servicios-publicos-de-colonia-marina-ltda",
+      "name": "Cooperativa de Colonia Marina",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD Y SERVICIOS PÚBLICOS DE COLONIA MARINA LTDA.",
+      "area": "COLONIA MARINA",
+      "users": 749,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-electrica-colonia-prosperidad-ltda",
+      "name": "Cooperativa de Colonia Prosperidad",
+      "fullName": "COOPERATIVA ELECTRICA COLONIA PROSPERIDAD LTDA.",
+      "area": "Colonia Prosperidad – Quebracho Herrado – Monte Redondo.",
+      "users": 549,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-energia-electrica-colonia-san-bartolome-ltda",
+      "name": "Cooperativa de Colonia San Bartolomé",
+      "fullName": "COOPERATIVA DE ENERGÍA ELÉCTRICA COLONIA SAN BARTOLOMÉ LTDA.",
+      "area": "Zona Urbana y Rural de Colonia de San Bartolomé.",
+      "users": 637,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-servicios-publicos-colonia-tirolesa-ltda",
+      "name": "Cooperativa de Colonia Tirolesa",
+      "fullName": "COOPERATIVA DE SERVICIOS PÚBLICOS COLONIA TIROLESA LTDA.",
+      "area": "Villa Retiro, El Gateado, Colonia Tirolesa, La Puerta, Tinoco, Esquina.",
+      "users": 3248,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-electrica-coronel-baigorria-ltda",
+      "name": "Cooperativa de Coronel Baigorria",
+      "fullName": "COOPERATIVA ELECTRICA CORONEL BAIGORRIA LTDA",
+      "area": "Coronel Baigorria – Paraje Santa Rita.",
+      "users": 676,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidad-obras-y-servicios-publicos-ltda-de-coronel-moldes",
+      "name": "Cooperativa de Coronel Moldes",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD, OBRAS Y SERVICIOS PÚBLICOS LTDA. DE CORONEL MOLDES.",
+      "area": "Coronel Moldes, Malena, Paunero.",
+      "users": 4606,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-obras-servicios-publicos-y-credito-de-corralito-ltda",
+      "name": "Cooperativa de Corralito",
+      "fullName": "COOPERATIVA DE OBRAS, SERVICIOS PUBLICOS Y CREDITO DE CORRALITO LTDA.",
+      "area": "CORRALITO",
+      "users": 868,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidad-de-dalmacio-velez-ltda",
+      "name": "Cooperativa de Dalmacio Velez",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD DE DALMACIO VELEZ LTDA.",
+      "area": "",
+      "users": 817,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-obras-y-servicios-publicos-de-despenaderos-ltda",
+      "name": "Cooperativa de Despeñaderos",
+      "fullName": "COOPERATIVA DE OBRAS Y SERVICIOS PUBLICOS DE DESPEÑADEROS LTDA.",
+      "area": "Despeñaderos",
+      "users": 3239,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-consumo-servicios-publicos-y-sociales-de-dean-funes-ltda",
+      "name": "Cooperativa de Deán Funes",
+      "fullName": "COOPERATIVA DE CONSUMO, SERVICIOS PÚBLICOS Y SOCIALES DE DEAN FUNES LTDA.",
+      "area": "DEAN FUNES",
+      "users": 9816,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidad-obras-y-servicios-publicos-eduardo-bulnes-ltda",
+      "name": "Cooperativa de Eduardo Bulnes",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD, OBRAS Y SERVICIOS PÚBLICOS EDUARDO BULNES LTDA.",
+      "area": "BULNES",
+      "users": 553,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-luz-y-fuerza-de-elena-ltda",
+      "name": "Cooperativa de Elena",
+      "fullName": "COOPERATIVA DE LUZ Y FUERZA DE ELENA LTDA.",
+      "area": "Elena, Las Albahacas, El Chacal, Río Seco.",
+      "users": 2803,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-provision-de-servicios-publicos-de-embalse-ltda",
+      "name": "Cooperativa de Embalse",
+      "fullName": "COOPERATIVA DE PROVISION DE SERVICIOS PÚBLICOS DE EMBALSE LTDA.",
+      "area": "EMBALSE",
+      "users": 4291,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-electrica-ltda-de-etruria",
+      "name": "Cooperativa de Etruria",
+      "fullName": "COOPERATIVA ELÉCTRICA LTDA. DE ETRURIA",
+      "area": "Etruria y Zona Rural",
+      "users": 2130,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperaritiva-de-provision-de-servicios-publicos-de-freyre-ltada",
+      "name": "Cooperativa de Freyre",
+      "fullName": "COOPERATIVA DE PROVISIÓN DE SERVICIOS PÚBLICOS DE FREYRE LTADA.",
+      "area": "Plazo Luxardo, Freyre. Fuente: Compra agua en bloque a ADENOR ACE.",
+      "users": 3764,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-provision-de-obras-y-servicios-publicos-de-gral-baldissera-ltda",
+      "name": "Cooperativa de General Baldissera",
+      "fullName": "COOPERATIVA DE PROVISIÓN DE OBRAS Y SERVICIOS PÚBLICOS DE GRAL. BALDISSERA LTDA.",
+      "area": "Gral. Baldissera",
+      "users": 1037,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-provision-de-electricidad-obras-y-servicios-publicos-de-gral-cabrera-ltda",
+      "name": "Cooperativa de General Cabrera",
+      "fullName": "COOPERATIVA DE PROVISION DE ELECTRICIDAD, OBRAS Y SERVICIOS PUBLICOS DE GRAL CABRERA LTDA.",
+      "area": "Zona Rural Gral. Cabrera",
+      "users": 216,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-electrica-de-general-deheza-ltda",
+      "name": "Cooperativa de General Deheza",
+      "fullName": "COOPERATIVA ELECTRICA DE GENERAL DEHEZA LTDA.",
+      "area": "General Deheza",
+      "users": 4131,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidad-y-aguas-corriente-de-gral-levalle-ltda",
+      "name": "Cooperativa de General Levalle",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD Y AGUAS CORRIENTES DE GRAL. LEVALLE LTDA.",
+      "area": "General Levalle (Zona Urbana y Rural), Río Bamba (Zona Urbana y Rural) y La Cautiva (Zona Rural).",
+      "users": 3229,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-ltda-de-electricidad-de-guatimozin",
+      "name": "Cooperativa de Guatimozin",
+      "fullName": "COOPERATIVA LTDA. DE ELECTRICIDAD DE GUATIMOZIN",
+      "area": "Guatimozín",
+      "users": 1291,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidad-y-servicios-anexos-de-huanchilla-ltda",
+      "name": "Cooperativa de Huanchilla",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD Y SERVICIOS ANEXOS DE HUANCHILLA LTDA.",
+      "area": "Huanchilla",
+      "users": 860,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-ltda-de-electricidad-y-servicios-anexos-de-huinca-renanco",
+      "name": "Cooperativa de Huinca Renanco",
+      "fullName": "COOPERATIVA LTDA. DE ELECTRICIDAD Y SERVICIOS ANEXOS DE HUINCA RENANCO",
+      "area": "Huinca Renancó, Ranqueles.",
+      "users": 4496,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-servicios-de-electricidad-obras-y-servicios-publicos-de-idiazabal-ltda",
+      "name": "Cooperativa de Idiazabal",
+      "fullName": "COOPERATIVA DE SERVICIOS DE ELECTRICIDAD, OBRAS Y SERVICIOS PÚBLICOS DE IDIAZABAL LTDA.",
+      "area": "Idiazabal.",
+      "users": 903,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidad-y-servicios-publicos-de-inriville-ltda-2",
+      "name": "Cooperativa de Inriville",
+      "fullName": "Cooperativa de Electricidad y Servicios Públicos de Inriville Ltda.",
+      "area": "INRIVILLE",
+      "users": 2096,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidad-y-promocion-regional-isla-verde-ltda",
+      "name": "Cooperativa de Isla Verde",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD Y PROMOCIÓN REGIONAL ISLA VERDE LTDA.",
+      "area": "ZONA RURAL ISLA VERDE. ZONA RURAL CORRAL DE BUSTOS. ZONA URBANA COLONIA ITALIANA. ZONA URBANA CAP.BDO. O´HIGGINS",
+      "users": null,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-provision-de-electricidad-obras-y-servicios-publicos-italo-ltda",
+      "name": "Cooperativa de Italo",
+      "fullName": "COOPERATIVA DE PROVISION DE ELECTRICIDAD, OBRAS Y SERVICIOS PUBLICOS ITALO LTDA.",
+      "area": "Italó, Onagoity.",
+      "users": 695,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-servicios-publicos-de-james-craik-ltda",
+      "name": "Cooperativa de James Craik",
+      "fullName": "COOPERATIVA DE SERVICIOS PÚBLICOS DE JAMES CRAIK LTDA.",
+      "area": "James Craik",
+      "users": 70,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "hidroelectrica-san-jose-cooperativa-ltda",
+      "name": "Cooperativa de José de la Quintana",
+      "fullName": "HIDROELÉCTRICA SAN JOSÉ COOPERATIVA LTDA.",
+      "area": "JOSÉ DE LA QUINTANA.",
+      "users": 4013,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-electrica-jovita-limitada-celjo",
+      "name": "Cooperativa de Jovita",
+      "fullName": "COOPERATIVA ELÉCTRICA JOVITA LIMITADA “CELJO”",
+      "area": "Jovita, Nicolás Bruzzone, Pincen, San Joaquín.",
+      "users": 3457,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-electrica-y-de-obras-y-servicios-publicos-limitada-de-justiniano-posse",
+      "name": "Cooperativa de Justiniano Posse",
+      "fullName": "COOPERATIVA ELÉCTRICA Y DE OBRAS Y SERVICIOS PÚBLICOS LIMITADA DE JUSTINIANO POSSE",
+      "area": "Justiniano Posse (Zonas Urbanas y Rurales)",
+      "users": 4568,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-provision-de-obras-y-servicios-publicos-laborde-ltda",
+      "name": "Cooperativa de Laborde",
+      "fullName": "COOPERATIVA DE PROVISIÓN DE OBRAS Y SERVICIOS PÚBLICOS LABORDE LTDA.",
+      "area": "Zona Rural Laborde",
+      "users": 83,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-fabrica-de-electricidad-laboulaye-ltda",
+      "name": "Cooperativa de Laboulaye",
+      "fullName": "COOPERATIVA FÁBRICA DE ELECTRICIDAD LABOULAYE LTDA.",
+      "area": "Zonas Urbanas y Rurales de Laboulaye, Villa Rosales y Villa Rossi.",
+      "users": 11290,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-electrica-de-laguna-larga-ltda",
+      "name": "Cooperativa de Laguna Larga",
+      "fullName": "COOPERATIVA ELÉCTRICA DE LAGUNA LARGA LTDA.",
+      "area": "LAGUNA LARGA",
+      "users": 3642,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-servicios-publicos-de-luca-ltda",
+      "name": "Cooperativa de Luca",
+      "fullName": "COOPERATIVA DE SERVICIOS PUBLICOS DE LUCA LTDA",
+      "area": "LUCA",
+      "users": 328,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-servicios-publicos-y-sociales-luque-ltda",
+      "name": "Cooperativa de Luque",
+      "fullName": "COOPERATIVA DE SERVICIOS PÚBLICOS Y SOCIALES LUQUE LTDA.",
+      "area": "LUQUE",
+      "users": 3125,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidad-de-luyaba-ltda",
+      "name": "Cooperativa de Luyaba",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD DE LUYABA LTDA.",
+      "area": "Luyaba, Travesía, Paraje San Isidro y Paraje Guanaco Boleado.",
+      "users": 751,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-electrica-y-de-servicios-publicos-de-manfredi-ltda",
+      "name": "Cooperativa de Manfredi",
+      "fullName": "COOPERATIVA ELÉCTRICA Y DE SERVICIOS PÚBLICOS DE MANFREDI LTDA.",
+      "area": "Manfredi",
+      "users": 374,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "electricidad-servicios-publicos-vivienda-obras-y-credito-marull-cooperativa-ltda",
+      "name": "Cooperativa de Marull",
+      "fullName": "ELECTRICIDAD, SERVICIOS PÚBLICOS, VIVIENDA, OBRAS Y CRÉDITO MARULL COOPERATIVA LTDA.",
+      "area": "MARULL",
+      "users": 1030,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-electrica-telefonica-y-de-servicios-publicos-de-matorrales-ltda",
+      "name": "Cooperativa de Matorrales",
+      "fullName": "COOPERATIVA ELÉCTRICA TELEFÓNICA Y DE SERVICIOS PÚBLICOS DE MATORRALES LTDA.",
+      "area": "MATORRALES",
+      "users": 628,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidad-y-servicios-publicos-de-mattaldi-ltda",
+      "name": "Cooperativa de Mattaldi",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD Y SERVICIOS PÚBLICOS DE MATTALDI LTDA.",
+      "area": "MATTALDI",
+      "users": 894,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-electrica-y-de-servicios-publicos-media-naranja-ltda",
+      "name": "Cooperativa de Media Naranja",
+      "fullName": "COOPERATIVA ELÉCTRICA Y DE SERVICIOS PÚBLICOS “MEDIA NARANJA” LTDA.",
+      "area": "EL BRETE",
+      "users": 1975,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidad-credito-obras-y-servicios-publicos-y-viviendas-de-melo-ltda",
+      "name": "Cooperativa de Melo",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD, CREDITO, OBRAS Y SERVICIOS PUBLICOS Y VIVIENDAS DE MELO LTDA.",
+      "area": "Melo",
+      "users": 717,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-ltda-de-electricidad-de-mina-clavero",
+      "name": "Cooperativa de Mina Clavero",
+      "fullName": "COOPERATIVA LTDA. DE ELECTRICIDAD DE MINA CLAVERO",
+      "area": "Mina Clavero. Villa Cura Brochero. Panaholma. San Lorenzo. Arroyo de los Patos.",
+      "users": 11482,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-electrica-y-de-servicios-publicos-miramar-ltda",
+      "name": "Cooperativa de Miramar",
+      "fullName": "COOPERATIVA ELECTRICA Y DE SERVICIOS PÚBLICOS MIRAMAR LTDA.",
+      "area": "Miramar",
+      "users": 1990,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-electrica-y-de-obras-y-servicios-publicos-de-monte-buey-ltda",
+      "name": "Cooperativa de Monte Buey",
+      "fullName": "COOPERATIVA ELÉCTRICA Y DE OBRAS Y SERVICIOS PÚBLICOS DE MONTE BUEY LTDA.",
+      "area": "Monte Buey, Saladillo.",
+      "users": 3850,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-obras-y-servicios-publicos-de-monte-cristo-ltda",
+      "name": "Cooperativa de Monte Cristo",
+      "fullName": "COOPERATIVA DE OBRAS Y SERVICIOS PUBLICOS DE MONTE CRISTO LTDA.",
+      "area": "Monte Cristo",
+      "users": 6816,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidad-agua-potable-y-otros-servicios-publicos-de-monte-lena-ltda",
+      "name": "Cooperativa de Monte Leña",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD, AGUA POTABLE Y OTROS SERVICIOS PUBLICOS DE MONTE LEÑA LTDA.",
+      "area": "Monte Leña. Zona Rural Bell Ville. Zona Rural San Marcos Sud",
+      "users": 516,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-agua-y-energia-electrica-ltda-de-monte-ralo",
+      "name": "Cooperativa de Monte Ralo",
+      "fullName": "COOPERATIVA DE AGUA Y ENERGIA ELECTRICA LTDA. DE MONTE RALO",
+      "area": "Monte Ralo",
+      "users": 441,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-obras-y-servicios-publicos-de-morrison-ltda",
+      "name": "Cooperativa de Morrison",
+      "fullName": "COOPERATIVA DE OBRAS Y SERVICIOS PUBLICOS DE MORRISON LTDA.",
+      "area": "Zona Rural Morrison. Zona Rural Bell Ville",
+      "users": 259,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-servicios-publicos-de-morteros-ltda",
+      "name": "Cooperativa de Morteros",
+      "fullName": "COOPERATIVA DE SERVICIOS PÚBLICOS DE MORTEROS LTDA.",
+      "area": "MORTEROS",
+      "users": 10243,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-obras-y-servicios-publicos-de-nono-ltda",
+      "name": "Cooperativa de Nono",
+      "fullName": "COOPERATIVA DE OBRAS Y SERVICIOS PÚBLICOS DE NONO LTDA.",
+      "area": "Nono, Las Rabonas, Las Calles, Altautina.",
+      "users": 2763,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-agropecuaria-industrial-y-de-luz-y-fuerza-cordoba-ltda",
+      "name": "Cooperativa de Obispo Trejo",
+      "fullName": "COOPERATIVA DE SERVICIOS PÚBLICOS Y VIVIENDAS DE OBISPO TREJO LTDA.",
+      "area": "Obispo Trejo y Chalacea.",
+      "users": 1185,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-provision-de-obras-y-servicios-publicos-de-olaeta-ltda",
+      "name": "Cooperativa de Olaeta",
+      "fullName": "COOPERATIVA DE PROVISIÓN DE OBRAS Y SERVICIOS PÚBLICOS DE OLAETA LTDA.",
+      "area": "Olaeta",
+      "users": 400,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-provision-de-obras-y-servicios-publicos-y-sociales-y-de-vivienda-de-oliva-ltda",
+      "name": "Cooperativa de Oliva",
+      "fullName": "COOPERATIVA DE PROVISIÓN DE OBRAS Y SERVICIOS PÚBLICOS Y SOCIALES Y DE VIVIENDA DE OLIVA LTDA.",
+      "area": "OLIVA",
+      "users": 6403,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-electrica-de-servicios-y-obras-publicas-de-oncativo-ltda",
+      "name": "Cooperativa de Oncativo",
+      "fullName": "COOPERATIVA ELÉCTRICA DE SERVICIOS Y OBRAS PÚBLICAS DE ONCATIVO LTDA",
+      "area": "Oncativo. Impira.",
+      "users": 7153,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-tamberos-de-pampayasta-norte-ltda",
+      "name": "Cooperativa de Pampayasta Norte",
+      "fullName": "COOPERATIVA DE TAMBEROS DE PAMPAYASTA NORTE LTDA.",
+      "area": "Pampayasta Norte.",
+      "users": 103,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-provision-de-electricidad-y-servicios-publicos-de-pascanas-ltda",
+      "name": "Cooperativa de Pascanas",
+      "fullName": "COOPERATIVA DE PROVISIÓN DE ELECTRICIDAD Y SERVICIOS PÚBLICOS DE PASCANAS LTDA.",
+      "area": "PASCANAS, CHAZON, LABORDE, SANTA EUFEMIA, ETRURIA, IDIAZABAL, ORDOÑES, CANALS.",
+      "users": 152,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-servicios-publicos-de-pasco-ltda",
+      "name": "Cooperativa de Pasco",
+      "fullName": "COOPERATIVA DE SERVICIOS PÚBLICOS DE PASCO LTDA.",
+      "area": "Pasco y Zona Rural.",
+      "users": 757,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativas-de-servicios-publicos-de-portena-ltda",
+      "name": "Cooperativa de Porteña",
+      "fullName": "COOPERATIVA DE SERVICIOS PÚBLICOS DE PORTEÑA LTDA.",
+      "area": "PORTEÑA",
+      "users": 3158,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-luz-y-fuerza-obras-y-servicios-publicos-y-asistenciales-pozo-del-molle-ltda",
+      "name": "Cooperativa de Pozo del Molle",
+      "fullName": "COOPERATIVA DE LUZ Y FUERZA, OBRAS Y SERVICIOS PUBLICOS Y ASISTENCIALES “POZO DEL MOLLE” LTDA.",
+      "area": "Pozo del Molle.",
+      "users": 3275,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-servicios-publicos-de-pueblo-italiano-ltda",
+      "name": "Cooperativa de Pueblo Italiano",
+      "fullName": "COOPERATIVA DE SERVICIOS PÚBLICOS DE PUEBLO ITALIANO LTDA.",
+      "area": "Pueblo Italiano.",
+      "users": 993,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperaritiva-de-electricidad-consumo-obras-y-servicios-publicos-y-sociales-de-quilino-ltada",
+      "name": "Cooperativa de Quilino",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD, CONSUMO, OBRAS Y SERVICIOS PÚBLICOS Y SOCIALES DE QUILINO LTDA.",
+      "area": "Quilino, San José de las Salinas, Lucio V. Mansilla y Zonas Rurales.",
+      "users": 3208,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-servicios-publicos-de-rafael-garcia-ltda",
+      "name": "Cooperativa de Rafael García",
+      "fullName": "COOPERATIVA DE SERVICIOS PUBLICOS DE RAFAEL GARCIA LTDA.",
+      "area": "Rafael García.",
+      "users": 280,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-luz-y-fuerza-de-reduccion-ltda",
+      "name": "Cooperativa de Reducción",
+      "fullName": "COOPERATIVA DE LUZ Y FUERZA DE REDUCCION LTDA.",
+      "area": "Reducción.",
+      "users": 766,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidad-de-rio-primero-ltda",
+      "name": "Cooperativa de Río Primero",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD DE RIO PRIMERO LTDA.",
+      "area": "Río Primero. Cañada de Machado. Pedro E. Vivas.",
+      "users": 4395,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-obras-y-servicios-publicos-ltda-de-rio-tercero",
+      "name": "Cooperativa de Río Tercero",
+      "fullName": "COOPERATIVA DE OBRAS Y SERVICIOS PUBLICOS LTDA. DE RIO TERCERO",
+      "area": "Río Tercero.",
+      "users": 24875,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-servicios-publicos-y-sociales-credito-y-vivienda-de-sacanta-ltda",
+      "name": "Cooperativa de Sacanta",
+      "fullName": "COOPERATIVA DE SERVICIOS PÚBLICOS, CRÉDITO Y VIVIENDA DE SACANTA LTDA.",
+      "area": "Zona Urbana y Rural de Sacanta.",
+      "users": 1902,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-electrica-de-salsacate-ltda",
+      "name": "Cooperativa de Salsacate",
+      "fullName": "COOPERATIVA ELÉCTRICA DE SALSACATE LTDA.",
+      "area": "SALSACATE, AMBUL, TALA CAÑADA , SAN JERÓNIMO, ALTO GRANDE, EL MIRADOR, BAJO DE CORRALES, EL CHAMICO, VILLA VISO LOS TALARES, MUSSI, HUIACO, SAGRADA FAMILIA, CUCHILLACO, LAS PALMAS, EL POTRERO, LOS CERROS, BOROA, VILLA DE POCHO, LA TABLADA, BUENA VISTA, LAS CORTADERAS, PITOA, TORO MUERTO, ARROYO MURUA.",
+      "users": 2269,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-servicios-publicos-de-sampacho-ltda",
+      "name": "Cooperativa de Sampacho",
+      "fullName": "COOPERATIVA DE SERVICIOS PÚBLICOS DE SAMPACHO LTDA.",
+      "area": "Sampacho, Suco, Chaján y Zona Rural",
+      "users": 5181,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-servicios-publicos-san-agustin-ltda",
+      "name": "Cooperativa de San Agustín",
+      "fullName": "COOPERATIVA DE SERVICIOS PÚBLICOS SAN AGUSTIN LTDA.",
+      "area": "Los Molinos. Calmayo.",
+      "users": 2039,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-servicios-publicos-credito-consumo-y-vivienda-ltda-de-san-antonio-de-litin",
+      "name": "Cooperativa de San Antonio de Litin",
+      "fullName": "COOPERATIVA DE SERVICIOS PUBLICOS, CREDITO, CONSUMO Y VIVIENDA LTDA. DE SAN ANTONIO DE LITIN",
+      "area": "San Antonio de Littin.",
+      "users": 769,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-obras-y-servicios-publicos-de-san-basilio-ltda",
+      "name": "Cooperativa de San Basilio",
+      "fullName": "COOPERATIVA DE OBRAS Y SERVICIOS PUBLICOS DE SAN BASILIO LTDA",
+      "area": "San Basilio. Carolina.",
+      "users": 1992,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "coopertiva-de-provision-de-electricidad-y-servicios-publicos-de-san-carlos-minas-ltda",
+      "name": "Cooperativa de San Carlos Minas",
+      "fullName": "COOPERATIVA DE PROVISION DE ELECTRICIDAD Y SERVICIOS PUBLICOS DE SAN CARLOS MINAS LTDA.",
+      "area": "San Carlos Minas",
+      "users": 1269,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-electrica-limitada-de-san-jose-de-la-dormida",
+      "name": "Cooperativa de San José de la Dormida",
+      "fullName": "COOPERATIVA ELECTRICA LIMITADA DE SAN JOSE DE LA DORMIDA.",
+      "area": "San José de la Dormida.",
+      "users": 2864,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-ltda-de-electricidad-de-san-marcos-sierra",
+      "name": "Cooperativa de San Marcos Sierras",
+      "fullName": "COOPERATIVA LTDA. DE ELECTRICIDAD DE SAN MARCOS SIERRA",
+      "area": "San Marcos Sierra. El Rincón. Los Sauces.",
+      "users": 2009,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-electrica-ltda-de-san-marcos-sud",
+      "name": "Cooperativa de San Marcos Sud",
+      "fullName": "COOPERATIVA ELÉCTRICA LTDA. DE SAN MARCOS SUD",
+      "area": "San Marcos Sud",
+      "users": 1553,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidad-vivienda-obras-y-servicios-publicos-de-santa-catalina-ltda-2",
+      "name": "Cooperativa de Santa Catalina",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD, VIVIENDAS, OBRAS Y SERVICIOS PÚBLICOS DE SANTA CATALINA LTDA.",
+      "area": "Holmberg, Las Ensenadas, Santa Flora, La Lagunilla.",
+      "users": 2259,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-elecricidad-y-servicios-publicos-de-santa-monica-ltda",
+      "name": "Cooperativa de Santa Mónica",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD Y SERVICIOS PÚBLICOS DE SANTA MÓNICA LTDA.",
+      "area": "Barrio Santa Mónica de Santa Rosa de Calamuchita.",
+      "users": 1096,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-provision-de-energia-electrica-vivienda-credito-y-servicios-publicos-de-santa-rosa-de-calamuchita",
+      "name": "Cooperativa de Santa Rosa de Calamuchita",
+      "fullName": "COOPERATIVA DE PROVISIÓN DE ENERGÍA ELÉCTRICA, VIVIENDA, CRÉDITO Y SERVICIOS PÚBLICOS DE SANTA ROSA DE CALAMUCHITA",
+      "area": "Santa Rosa de Calamuchita.",
+      "users": 8827,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidad-y-servicios-publicos-de-sarmiento-ltda",
+      "name": "Cooperativa de Sarmiento",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD Y SERVICIOS PÚBLICOS DE SARMIENTO LTDA.",
+      "area": "Sarmiento, Avellaneda, Paraje el monte, Macha, Villa Gutierrez, Juan García, Cañada de Río Pinto, Río los Sauce, Agua de las Piedras, Villa Albertina, Cerro Negro, Mula Muerta, RN9.",
+      "users": 1366,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-obras-y-servicios-publicos-y-sociales-credito-y-vivienda-edison-ltda",
+      "name": "Cooperativa de Saturnino María Laspiur",
+      "fullName": "COOPERATIVA DE OBRAS Y SERVICIOS PÚBLICOS Y SOCIALES, CRÉDITO Y VIVIENDA EDISON LTDA.",
+      "area": "SATURNINO M. LASPIUR (Zona Urbana y Rural).",
+      "users": 1332,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-ltda-de-electricidad-de-sebastian-elcano",
+      "name": "Cooperativa de Sebastián Elcano",
+      "fullName": "COOPERATIVA LTDA. DE ELECTRICIDAD DE SEBASTIAN ELCANO",
+      "area": "SEBASTIAN ELCANO. EL RODEO. BARRETO. SANTA ELENA. RAYO CORTADO. CERRO COLORADO. CAMINIAGA. CHURQUI CAÑADA. CHAÑAR VIEJO. LA TOMA. EL PERCHEL. GUAYASCATE- EL PANTANILLO.",
+      "users": 3094,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-servicios-publicos-y-sociales-de-serrano-ltda",
+      "name": "Cooperativa de Serrano",
+      "fullName": "COOPERATIVA DE SERVICIOS PUBLICOS Y SOCIALES DE SERRANO LTDA.",
+      "area": "Serrano.",
+      "users": 1800,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidad-y-servicios-publicos-sil-pe-ltda",
+      "name": "Cooperativa de Silvio Pellico",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD Y SERVICIOS PÚBLICOS SIL-PE LTDA.",
+      "area": "Silvio Pellico.",
+      "users": 304,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-servicios-publicos-de-simbolar-ltda",
+      "name": "Cooperativa de Simbolar",
+      "fullName": "COOPERATIVA DE SERVICIOS PUBLICOS DE SIMBOLAR LTDA.",
+      "area": "SIMBOLAR",
+      "users": 137,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidad-obras-y-servicios-publicos-sobremonte-ltda",
+      "name": "Cooperativa de Sobremonte",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD, OBRAS Y SERVICIOS PÚBLICOS SOBREMONTE LTDA.",
+      "area": "Santa Ana. La Aguadita. Pozo Nuevo. El Talar . Chuña Huasi. Totorilla. Rodeito. Come Tierra. San Miguel. Villa Ataide. La Colonia. Agua La cal. La Isla. Las Chichas. La quinta. La Querencia. El Bajo. El Jume. Santa María. El Quebrachito. Cahi Yaco. La Lagunita. Majadilla. El cercado. Alto Alegre. El Mirador.",
+      "users": 364,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-obras-servicios-publicos-provision-consumo-credito-y-vivienda-de-toledo-ltda",
+      "name": "Cooperativa de Toledo",
+      "fullName": "COOPERATIVA DE OBRAS, SERVICIOS PUBLICOS, PROVISIÓN, CONSUMO, CRÉDITO Y VIVIENDA DE TOLEDO LTDA.",
+      "area": "TOLEDO",
+      "users": 1781,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-servicios-publicos-transito-ltada",
+      "name": "Cooperativa de Tránsito",
+      "fullName": "COOPERATIVA DE SERVICIOS PUBLICOS TRANSITO LTADA.",
+      "area": "TRANSITO.",
+      "users": 1831,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-ltda-de-provision-de-obras-y-servicios-publicos-y-sociales-de-tulumba",
+      "name": "Cooperativa de Tulumba",
+      "fullName": "COOPERATIVA LTDA. DE PROVISION DE OBRAS Y SERVICIOS PUBLICOS Y SOCIALES DE TULUMBA",
+      "area": "VILLA TULUMBA.",
+      "users": 1182,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-energia-electrica-y-agua-de-tio-pujio-ltada",
+      "name": "Cooperativa de Tío Pujio",
+      "fullName": "COOPERATIVA DE ENERGIA ELECTRICA Y AGUA DE TIO PUJIO LTADA.",
+      "area": "TIO PUJIO.",
+      "users": 1970,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-electrica-y-de-servicios-publicos-de-ucacha-ltda",
+      "name": "Cooperativa de Ucacha",
+      "fullName": "COOPERATIVA ELECTRICA Y DE SERVICIOS PUBLICOS DE UCACHA LTDA.",
+      "area": "Zona rural de Ucacha",
+      "users": 256,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-ltda-de-consumo-popular-de-electricidad-y-servicios-anexos-de-viamonte",
+      "name": "Cooperativa de Viamonte",
+      "fullName": "COOPERATIVA LTDA. DE CONSUMO POPULAR DE ELECTRICIDAD Y SERVICIOS ANEXOS DE VIAMONTE",
+      "area": "VIAMONTE",
+      "users": 921,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidad-y-anexos-limitada-c-e-y-a-l",
+      "name": "Cooperativa de Vicuña Mackenna",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD Y ANEXOS LIMITADA – C.E.Y.A.L.",
+      "area": "VICUÑA MACKENNA. TOSQUITA.",
+      "users": 6032,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-servicios-publicos-villa-ascasubi-limitada",
+      "name": "Cooperativa de Villa Ascasubi",
+      "fullName": "COOPERATIVA DE SERVICIOS PUBLICOS VILLA ASCASUBI LIMITADA",
+      "area": "VILLA ASCASUBI",
+      "users": 1089,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-electrica-mixta-del-oeste-y-otros-servicios-publicos-ltda",
+      "name": "Cooperativa de Villa Dolores",
+      "fullName": "COOPERATIVA ELECTRICA MIXTA DEL OESTE Y OTROS SERVICIOS PUBLICOS LTDA.",
+      "area": "Villa Dolores. San Pedro. Villa Sarmiento y Sauce Arriba. Las Tapias. San Javier y Yacanto – La Paz. La Población. Los Pozos. San Vicente. Los Cerrilos. San José. Conlara – Los Romeros – San Martín de Tours. Los Romeros – Las Toscas – El Ramplón.",
+      "users": 29881,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-obras-y-servicios-publicos-sociales-y-asistenciales-de-villa-fontana-ltda",
+      "name": "Cooperativa de Villa Fontana",
+      "fullName": "COOPERATIVA DE OBRAS Y SERVICIOS PUBLICOS SOCIALES Y ASISTENCIALES DE VILLA FONTANA LTDA.",
+      "area": "VILLA FONTANA",
+      "users": 1110,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-luz-y-fuerza-y-obras-servicios-publicos-de-villa-gral-belgrano-ltda",
+      "name": "Cooperativa de Villa General Belgrano",
+      "fullName": "COOPERATIVA DE LUZ Y FUERZA Y OBRAS, SERVICIOS PÚBLICOS DE VILLA GENERAL BELGRANO LTDA.",
+      "area": "Localidad de Villa General Belgrano. Localidad de Ciudad Parque Los Reartes. Localidad de Athos Pampa. Zona rural.",
+      "users": 8287,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidad-y-servicios-publicos-y-credito-villa-huidobro-ltda",
+      "name": "Cooperativa de Villa Huidobro",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD Y SERVICIOS PÚBLICOS Y CRÉDITO VILLA HUIDOBRO LTDA.",
+      "area": "VILLA HUIDOBRO.",
+      "users": 2558,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electrificacion-productores-rurales-asociados-ltda",
+      "name": "Cooperativa de Villa Nueva",
+      "fullName": "COOPERATIVA DE ELECTRIFICACIÓN PRODUCTORES RURALES ASOCIADOS LTDA.",
+      "area": "VILLA NUEVA",
+      "users": 1031,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidad-obras-y-servicios-pulicos-ltda-de-villa-rumipal",
+      "name": "Cooperativa de Villa Rumipal",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD, OBRAS Y SERVICIOS PULICOS LTDA. DE VILLA RUMIPAL",
+      "area": "VILLA RUMIPAL.",
+      "users": 2194,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidad-obras-y-serv-publicos-de-san-isidro-ltda",
+      "name": "Cooperativa de Villa San Isidro",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD, OBRAS Y SERV. PUBLICOS DE SAN ISIDRO LTDA.",
+      "area": "SAN ISIDRO",
+      "users": 507,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidad-limitada-de-villa-valeria",
+      "name": "Cooperativa de Villa Valeria",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD LIMITADA DE VILLA VALERIA",
+      "area": "Villa Valeria, Sarmiento.",
+      "users": 1759,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-aguas-corrientes-electricidad-telefono-y-servicios-publicos-de-villa-yacanto-ltda",
+      "name": "Cooperativa de Villa Yacanto",
+      "fullName": "COOPERATIVA DE AGUAS CORRIENTES, ELECTRICIDAD, TELÉFONO Y SERVICIOS PÚBLICOS DE VILLA YACANTO LTDA.",
+      "area": "VILLA YACANTO. ZONAS RURALES.",
+      "users": 1609,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-provision-de-obras-y-servicios-de-villa-de-maria-de-rio-seco",
+      "name": "Cooperativa de Villa de Maria de Rio Seco",
+      "fullName": "COOPERATIVA DE PROVISION DE OBRAS Y SERVICIOS DE VILLA DE MARIA DE RIO SECO",
+      "area": "LOS HOYOS. SAN PEDRO. GUTEMBERG. LA COSTA DE LOS HOYOS. LA RINCONADA DE LOS HOYOS. EUFRACIO LOZA. VILLA CANDELARIA. EL GUANACO.",
+      "users": 816,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-limitada-de-luz-y-fuerza-de-soto",
+      "name": "Cooperativa de Villa de Soto",
+      "fullName": "COOPERATIVA LIMITADA DE LUZ Y FUERZA DE SOTO",
+      "area": "VILLA DE SOTO. PASO VIEJO. TUCLAME. PICHONAS. AGUA DE RAMON. BAÑADO DE SOTO. IGLESIA VIEJA. SANTA ANA. BELLA VISTA.",
+      "users": 5150,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-obras-y-servicios-publicos-ltda-villa-del-dique",
+      "name": "Cooperativa de Villa del Dique",
+      "fullName": "COOPERATIVA DE OBRAS Y SERVICIOS PUBLICOS LTDA. VILLA DEL DIQUE",
+      "area": "VILLA DEL DIQUE",
+      "users": 3437,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-servicios-publicos-y-sociales-villa-del-rosario-ltda",
+      "name": "Cooperativa de Villa del Rosario",
+      "fullName": "COOPERATIVA DE SERVICIOS PUBLICOS Y SOCIALES VILLA DEL ROSARIO LTDA",
+      "area": "VILLA DEL ROSARIO. RINCÓN. VILLA DEL CARMEN.",
+      "users": 9475,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-electrica-y-de-servicios-publicos-villa-las-rosas-ltda",
+      "name": "Cooperativa de Villa las Rosas",
+      "fullName": "COOPERATIVA ELÉCTRICA Y DE SERVICIOS PÚBLICOS VILLA LAS ROSAS LTDA.",
+      "area": "VILLA LAS ROSAS. LAS CHACRAS. LOS MOLLES.",
+      "users": 2438,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-provision-de-servicios-publicos-y-sociales-washington-limitada",
+      "name": "Cooperativa de Washington",
+      "fullName": "COOPERATIVA DE PROVISIÓN DE SERVICIOS PÚBLICOS Y SOCIALES WASHINGTON LIMITADA",
+      "area": "WASHINGTON",
+      "users": 240,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-servicios-publicos-del-campillo-ltda",
+      "name": "Cooperativa de del Campillo",
+      "fullName": "COOPERATIVA DE SERVICIOS PÚBLICOS DEL CAMPILLO LTDA.",
+      "area": "Del Campillo",
+      "users": 1755,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-obras-y-servicios-publicos-el-aranado-ltda",
+      "name": "Cooperativa de el Arañado",
+      "fullName": "COOPERATIVA DE OBRAS Y SERVICIOS PUBLICOS EL ARAÑADO LTDA.",
+      "area": "ARAÑADO",
+      "users": 972,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-electrica-el-fortin-ltda",
+      "name": "Cooperativa de el Fortín",
+      "fullName": "COOPERATIVA ELÉCTRICA EL FORTÍN LTDA.",
+      "area": "El Fortín",
+      "users": 683,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-luz-y-fuerza-motriz-y-agua-corriente-el-parador-de-la-montana-ltda",
+      "name": "Cooperativa de el Parador de la Montaña",
+      "fullName": "COOPERATIVA DE LUZ Y FUERZA MOTRIZ Y AGUA CORRIENTE EL PARADOR DE LA MONTAÑA LTDA.",
+      "area": "",
+      "users": 35,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-servicios-publicos-el-tio-villa-concepcion-ltda",
+      "name": "Cooperativa de el Tío-villa Concepción",
+      "fullName": "COOPERATIVA DE SERVICIOS PÚBLICOS EL TÍO-VILLA CONCEPCIÓN LTDA.",
+      "area": "El Tío, Villa Concepción",
+      "users": 2492,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-ltda-de-luz-y-fuerza-la-cautiva",
+      "name": "Cooperativa de la Cautiva",
+      "fullName": "COOPERATIVA LTDA DE LUZ Y FUERZA LA CAUTIVA",
+      "area": "La Cautiva",
+      "users": 348,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidad-vivienda-y-anexos-de-la-cesira-limitada",
+      "name": "Cooperativa de la Cesira",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD VIVIENDA Y ANEXOS DE LA CESIRA LIMITADA",
+      "area": "La Cesira",
+      "users": 856,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-luz-y-fuerza-y-aguas-corrientes-de-la-cumbrecita-ltda",
+      "name": "Cooperativa de la Cumbrecita",
+      "fullName": "COOPERATIVA DE LUZ Y FUERZA Y AGUAS CORRIENTES DE LA CUMBRECITA LTDA.",
+      "area": "La Cumbrecita, Villa Berna, Intiyaco y Zona Rural.",
+      "users": 793,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-servicios-publicos-la-francia-ltda",
+      "name": "Cooperativa de la Francia",
+      "fullName": "COOPERATIVA DE SERVICIOS PÚBLICOS “LA FRANCIA” LTDA.",
+      "area": "",
+      "users": 2120,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-servicios-publicos-de-la-granja-ltda",
+      "name": "Cooperativa de la Granja",
+      "fullName": "COOPERATIVA DE SERVICIOS PUBLICOS DE LA GRANJA LTDA.",
+      "area": "La Granja",
+      "users": 2268,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-servicios-publicos-vivienda-y-credito-la-laguna-ltda",
+      "name": "Cooperativa de la Laguna",
+      "fullName": "COOPERATIVA DE SERVICIOS PUBLICOS, VIVIENDA Y CREDITO LA LAGUNA LTDA.",
+      "area": "La Laguna",
+      "users": 571,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-servicios-publicos-de-la-paquita-ltda",
+      "name": "Cooperativa de la Paquita",
+      "fullName": "COOPERATIVA DE SERVICIOS PÚBLICOS DE LA PAQUITA LTDA.",
+      "area": "La Paquita",
+      "users": 299,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "la-para-cooperativa-de-electricidad-vivienda-y-servicios-publicos-ltda",
+      "name": "Cooperativa de la Para",
+      "fullName": "LA PARA COOPERATIVA DE ELECTRICIDAD VIVIENDA Y SERVICIOS PUBLICOS LTDA.",
+      "area": "La Para.",
+      "users": 2107,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidad-obras-y-servicios-publicos-de-la-playosa-ltda",
+      "name": "Cooperativa de la Playosa",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD, OBRAS Y SERVICIOS PÚBLICOS DE LA PLAYOSA LTDA.",
+      "area": "La Playosa",
+      "users": 1543,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidad-provision-de-servicios-publicos-y-electricidad-de-la-puerta-ltda",
+      "name": "Cooperativa de la Puerta",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD, PROVISIÓN DE SERVICIOS PÚBLICOS Y EDIFICACIÓN DE LA PUERTA LTDA.",
+      "area": "LOCALIDAD DE LA PUERTA Y COMUNAS DE LAS SALADAS Y PLAZA DE MERCEDES. ZONA RURAL DE INFLUENCIA.",
+      "users": 2107,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-obras-y-servicios-publicos-y-servicios-sociales-de-la-serranita-ltda",
+      "name": "Cooperativa de la Serranita",
+      "fullName": "COOPERATIVA DE CONSUMO, OBRAS Y SERVICIOS PÚBLICOS Y SERVICIOS SOCIALES DE LA SERRANITA LTDA",
+      "area": "La Serranita",
+      "users": 411,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-servicios-publicos-y-sociales-la-tordilla-ltda",
+      "name": "Cooperativa de la Tordilla",
+      "fullName": "COOPERATIVA DE SERVICIOS PÚBLICOS Y SOCIALES LA TORDILLA LTDA.",
+      "area": "LA TORDILLA",
+      "users": 940,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-electrica-de-obras-y-servicios-publicos-las-acequias-ltda",
+      "name": "Cooperativa de las Acequias",
+      "fullName": "COOPERATIVA ELÉCTRICA DE OBRAS Y SERVICIOS PÚBLICOS LAS ACEQUIAS LTDA.",
+      "area": "LAS ACEQUIAS",
+      "users": 1229,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidad-y-servicios-publicos-de-las-arrias-ltda",
+      "name": "Cooperativa de las Arrias",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD Y SERVICIOS PÚBLICOS DE LAS ARRIAS LTDA.",
+      "area": "LAS ARRIAS, LOS TAJAMARES, ROSARIO DEL SALADILLO, PUESTO DE FIERRO, ZONA RURAL DE LAS MARAVILLAS, LAS MASITAS, EL DURAZNO, SAN ROQUE, LA ANGOSTURA, EL VENCE.",
+      "users": 784,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidad-obras-y-servicios-publicos-ltda-las-higueras",
+      "name": "Cooperativa de las Higueras",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD. OBRAS Y SERVICIOS PUBLICOS LTDA. LAS HIGUERAS",
+      "area": "Las Higueras",
+      "users": 3565,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidad-y-servicios-publicos-las-junturas-ltda",
+      "name": "Cooperativa de las Junturas",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD Y SERVICIOS PUBLICOS LAS JUNTURAS LTDA.",
+      "area": "Las Junturas",
+      "users": 973,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-electrica-las-perdices-ltda",
+      "name": "Cooperativa de las Perdices",
+      "fullName": "COOPERATIVA ELÉCTRICA LAS PERDICES LTDA.",
+      "area": "LAS PERDICES",
+      "users": 2407,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-provision-de-electricidad-obras-y-servicios-publicos-ltda-de-las-varas",
+      "name": "Cooperativa de las Varas",
+      "fullName": "COOPERATIVA DE PROVISIÓN DE ELECTRICIDAD, OBRAS Y SERVICIOS PÚBLICOS LTDA. DE LAS VARAS",
+      "area": "LAS VARAS",
+      "users": 780,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-energia-electrica-y-otros-servicios-publicos-de-las-varillas-ltda",
+      "name": "Cooperativa de las Varillas",
+      "fullName": "COOPERATIVA DE ENERGÍA ELÉCTRICA Y OTROS SERVICIOS PÚBLICOS DE LAS VARILLAS LTDA",
+      "area": "Las Varillas y Zona Rural.",
+      "users": 10062,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidad-de-las-vertientes-ltda",
+      "name": "Cooperativa de las Vertientes",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD DE LAS VERTIENTES LTDA.",
+      "area": "Las Vertientes",
+      "users": 639,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-electricidad-y-servicios-publicos-los-chanaritos-ltda",
+      "name": "Cooperativa de los Chañaritos",
+      "fullName": "COOPERATIVA DE ELECTRICIDAD Y SERVICIOS PÚBLICOS LOS CHAÑARITOS LTDA.",
+      "area": "LOS CHAÑARITOS",
+      "users": 192,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-ltda-de-electricidad-vivienda-y-servicios-publicos-de-los-cisnes",
+      "name": "Cooperativa de los Cisnes",
+      "fullName": "COOPERATIVA LTDA. DE ELECTRICIDAD, VIVIENDA Y SERVICIOS PÚBLICOS DE LOS CISNES",
+      "area": "Los Cisnes",
+      "users": 833,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-provision-de-servicio-electrico-obras-y-otros-servicios-publicos-y-asistenciales-los-condores-ltda",
+      "name": "Cooperativa de los Cóndores",
+      "fullName": "COOPERATIVA DE PROVISIÓN DE SERVICIO ELÉCTRICO, OBRAS Y OTROS SERVICIOS PÚBLICOS Y ASISTENCIALES LOS CÓNDORES LTDA.",
+      "area": "LOS CÓNDORES.",
+      "users": 11586,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-ltda-de-consumo-popular-de-electricidad-y-servicios-anexos-de-los-hornillos",
+      "name": "Cooperativa de los Hornillos",
+      "fullName": "COOPERATIVA LTDA. DE CONSUMO POPULAR DE ELECTRICIDAD Y SERVICIOS ANEXOS DE LOS HORNILLOS",
+      "area": "Los Hornillos",
+      "users": 964,
+      "validFrom": "2026-10-01"
+    },
+    {
+      "id": "cooperativa-de-luz-fuerza-y-anexos-ltda-de-los-reartes",
+      "name": "Cooperativa de los Reartes",
+      "fullName": "COOPERATIVA DE LUZ, FUERZA Y ANEXOS LTDA. DE LOS REARTES",
+      "area": "LOS REARTES",
+      "users": 2330,
+      "validFrom": "2026-10-01"
+    }
+  ]
+}

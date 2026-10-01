@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-01T03:50:05+00:00",
+  "sources": [
+    {
+      "provider": "cooperativa-de-servicios-publicos-san-agustin-ltda",
+      "variant": "ERSEP",
+      "sourceFile": "cooperativa-de-servicios-publicos-san-agustin-ltda.pdf",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1MuoJhc7WD2TXRDv_ks9vos2RyPgwChn-",
+      "priceDate": "2026-09-01",
+      "sourceHash": "478a57d470caac0e43d8ccef9462e41d9fc3cd92062af995f5bcce1a7806f141",
+      "schedule": {
+        "name": "Cooperativa de San Agustín",
+        "validFrom": "2026-10-01",
+        "minimumBillableKwh": 0.0,
+        "levels": [
+          {
+            "id": "SEF",
+            "name": "Con subsidio",
+            "ranges": [
+              {
+                "upperLimitKwh": 120.0,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 227.18
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 324.39
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 500.0,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": 120.0,
+                    "pricePerKwh": 227.18
+                  },
+                  {
+                    "sizeKwh": 30.0,
+                    "pricePerKwh": 241.76
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 338.97
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 700.0,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": 120.0,
+                    "pricePerKwh": 229.13
+                  },
+                  {
+                    "sizeKwh": 30.0,
+                    "pricePerKwh": 244.06
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 341.27
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": null,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": 120.0,
+                    "pricePerKwh": 231.02
+                  },
+                  {
+                    "sizeKwh": 30.0,
+                    "pricePerKwh": 246.31
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 343.52
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "NOSEF",
+            "name": "Sin subsidio",
+            "ranges": [
+              {
+                "upperLimitKwh": 120.0,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 324.39
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 500.0,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": 120.0,
+                    "pricePerKwh": 324.39
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 338.97
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 700.0,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": 120.0,
+                    "pricePerKwh": 326.34
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 341.27
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": null,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": 120.0,
+                    "pricePerKwh": 328.23
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 343.52
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

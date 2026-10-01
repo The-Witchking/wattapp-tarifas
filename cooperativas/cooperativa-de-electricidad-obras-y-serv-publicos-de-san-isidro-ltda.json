@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-01T03:52:50+00:00",
+  "sources": [
+    {
+      "provider": "cooperativa-de-electricidad-obras-y-serv-publicos-de-san-isidro-ltda",
+      "variant": "ERSEP",
+      "sourceFile": "cooperativa-de-electricidad-obras-y-serv-publicos-de-san-isidro-ltda.pdf",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1Ugezc-MAT7ec7DK-PkaYHF2FIDTDNdKk",
+      "priceDate": "2026-09-01",
+      "sourceHash": "5dd8c5a2d0d1dc1134e0398827c6c5626f9a791e25f97ac66d8f936aa4077d46",
+      "schedule": {
+        "name": "Cooperativa de Villa San Isidro",
+        "validFrom": "2026-10-01",
+        "minimumBillableKwh": 40.0,
+        "levels": [
+          {
+            "id": "SEF",
+            "name": "Con subsidio",
+            "ranges": [
+              {
+                "upperLimitKwh": 500.0,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 277.5233
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 374.7333
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 700.0,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 280.3585
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 377.5685
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 1400.0,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 283.0997
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 380.3097
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": null,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 288.7704
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 385.9804
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "NOSEF",
+            "name": "Sin subsidio",
+            "ranges": [
+              {
+                "upperLimitKwh": 500.0,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 374.7333
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 700.0,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 377.5685
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 1400.0,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 380.3097
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": null,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 385.9804
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

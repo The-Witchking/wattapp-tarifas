@@ -1,0 +1,209 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-01T03:48:04+00:00",
+  "sources": [
+    {
+      "provider": "cooperativa-de-agua-y-energia-electrica-ltda-de-monte-ralo",
+      "variant": "ERSEP",
+      "sourceFile": "cooperativa-de-agua-y-energia-electrica-ltda-de-monte-ralo.pdf",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1dA-foO04i6gH_5y8e62YGgZmph4puPyY",
+      "priceDate": "2026-09-01",
+      "sourceHash": "e10052e4cc3de2231b35aca142a2eabd915f54c9fb063556ef58ea8e392e5072",
+      "schedule": {
+        "name": "Cooperativa de Monte Ralo",
+        "validFrom": "2026-10-01",
+        "minimumBillableKwh": 0.0,
+        "levels": [
+          {
+            "id": "SEF",
+            "name": "Con subsidio",
+            "ranges": [
+              {
+                "upperLimitKwh": 80.0,
+                "fixedCharge": 2365.58,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 251.0
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 348.21
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 120.0,
+                "fixedCharge": 2369.9,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 251.94
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 349.15
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 500.0,
+                "fixedCharge": 2783.03,
+                "tiers": [
+                  {
+                    "sizeKwh": 120.0,
+                    "pricePerKwh": 252.89
+                  },
+                  {
+                    "sizeKwh": 30.0,
+                    "pricePerKwh": 256.71
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 353.92
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 700.0,
+                "fixedCharge": 2783.03,
+                "tiers": [
+                  {
+                    "sizeKwh": 120.0,
+                    "pricePerKwh": 254.68
+                  },
+                  {
+                    "sizeKwh": 30.0,
+                    "pricePerKwh": 258.49
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 355.7
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 1400.0,
+                "fixedCharge": 2783.03,
+                "tiers": [
+                  {
+                    "sizeKwh": 120.0,
+                    "pricePerKwh": 256.4
+                  },
+                  {
+                    "sizeKwh": 30.0,
+                    "pricePerKwh": 260.21
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 357.42
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": null,
+                "fixedCharge": 2783.03,
+                "tiers": [
+                  {
+                    "sizeKwh": 120.0,
+                    "pricePerKwh": 259.96
+                  },
+                  {
+                    "sizeKwh": 30.0,
+                    "pricePerKwh": 263.78
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 360.99
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "NOSEF",
+            "name": "Sin subsidio",
+            "ranges": [
+              {
+                "upperLimitKwh": 80.0,
+                "fixedCharge": 2365.58,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 348.21
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 120.0,
+                "fixedCharge": 2369.9,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 349.15
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 500.0,
+                "fixedCharge": 2783.03,
+                "tiers": [
+                  {
+                    "sizeKwh": 120.0,
+                    "pricePerKwh": 350.1
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 353.92
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 700.0,
+                "fixedCharge": 2783.03,
+                "tiers": [
+                  {
+                    "sizeKwh": 120.0,
+                    "pricePerKwh": 351.89
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 355.7
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 1400.0,
+                "fixedCharge": 2783.03,
+                "tiers": [
+                  {
+                    "sizeKwh": 120.0,
+                    "pricePerKwh": 353.61
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 357.42
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": null,
+                "fixedCharge": 2783.03,
+                "tiers": [
+                  {
+                    "sizeKwh": 120.0,
+                    "pricePerKwh": 357.17
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 360.99
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

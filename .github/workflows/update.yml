@@ -1,14 +1,18 @@
-name: Actualizar cuadro EPEC
+name: Actualizar cuadros
 
 on:
   schedule:
-    # Días 3 y 18, 09:00 en Argentina: EPEC publica el cuadro del 1 un par de días después
-    # y a veces saca cuadros a mitad de mes. Se puede correr a mano con "Run workflow".
+    # Días 3 y 18, 09:00 en Argentina: EPEC y ERSEP publican el cuadro del 1 un par de días
+    # después y a veces sacan cuadros a mitad de mes. Se puede correr a mano con "Run workflow".
     - cron: "0 12 3,18 * *"
   workflow_dispatch:
     inputs:
       force:
-        description: "Volver a procesar el último cuadro aunque no haya cambiado"
+        description: "EPEC: volver a procesar el último cuadro aunque no haya cambiado"
+        type: boolean
+        default: false
+      catalog:
+        description: "Cooperativas: volver a leer el catálogo de ERSEP"
         type: boolean
         default: false
 
@@ -27,16 +31,30 @@ jobs:
       - run: pip install -r requirements.txt
       - name: Tests
         run: python -m unittest discover -s tests -t .
-      - name: Buscar y procesar el cuadro
+      - name: Cuadro EPEC
+        id: epec
+        continue-on-error: true
         run: python -m scraper.main ${{ inputs.force && '--force' || '' }}
+      - name: Cuadros de cooperativas
+        id: coops
+        continue-on-error: true
+        run: |
+          # El catálogo de ERSEP se relee una vez por mes (el día 3) o a pedido.
+          if [ "$(date -u +%d)" = "03" ] || [ "${{ inputs.catalog }}" = "true" ]; then ARGS=--catalog; fi
+          python -m scraper.coops_main $ARGS
       - name: Commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add tariffs.json history
+          git add tariffs.json history cooperativas
           if git diff --cached --quiet; then
             echo "Sin cambios"
           else
-            git commit -m "Cuadro EPEC $(python -c 'import json;print(json.load(open("tariffs.json"))["sources"][0]["schedule"]["validFrom"])')"
+            git commit -m "Cuadros $(date -u +%Y-%m-%d)"
             git push
           fi
+      - name: Resultado
+        if: steps.epec.outcome == 'failure' || steps.coops.outcome == 'failure'
+        run: |
+          echo "EPEC: ${{ steps.epec.outcome }} · Cooperativas: ${{ steps.coops.outcome }}"
+          exit 1

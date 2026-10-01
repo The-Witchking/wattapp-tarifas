@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-01T03:43:09+00:00",
+  "sources": [
+    {
+      "provider": "cooperativa-de-luz-y-fuerza-motriz-y-agua-corriente-el-parador-de-la-montana-ltda",
+      "variant": "ERSEP",
+      "sourceFile": "cooperativa-de-luz-y-fuerza-motriz-y-agua-corriente-el-parador-de-la-montana-ltda.pdf",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=19qv9gJPjSLYCN3bftoGfqAgdSJDHSvcy",
+      "priceDate": "2026-09-01",
+      "sourceHash": "6d75d40c713331950b461ce1cdcd43810d84361a2e863f62c33633cc34c0352d",
+      "schedule": {
+        "name": "Cooperativa de el Parador de la Montaña",
+        "validFrom": "2026-10-01",
+        "minimumBillableKwh": 60.0,
+        "levels": [
+          {
+            "id": "SEF",
+            "name": "Con subsidio",
+            "ranges": [
+              {
+                "upperLimitKwh": 500.0,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 312.42
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 399.38
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 700.0,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 315.5
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 402.46
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 1400.0,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 318.47
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 405.43
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": null,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 324.63
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 411.59
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "NOSEF",
+            "name": "Sin subsidio",
+            "ranges": [
+              {
+                "upperLimitKwh": 500.0,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 399.38
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 700.0,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 402.46
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 1400.0,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 405.43
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": null,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 411.59
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

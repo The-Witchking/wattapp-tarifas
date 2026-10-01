@@ -1,0 +1,209 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-01T03:48:23+00:00",
+  "sources": [
+    {
+      "provider": "cooperativa-agropecuaria-industrial-y-de-luz-y-fuerza-cordoba-ltda",
+      "variant": "ERSEP",
+      "sourceFile": "cooperativa-agropecuaria-industrial-y-de-luz-y-fuerza-cordoba-ltda.pdf",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=17dKZCL4NBkl0firsfwpG4yzXCROWA9HI",
+      "priceDate": "2026-09-01",
+      "sourceHash": "d859b58d1fcdd60d52abf54cac6a21fde95e1eb92f67c2dba9f583f2f149d8bd",
+      "schedule": {
+        "name": "Cooperativa de Obispo Trejo",
+        "validFrom": "2026-10-01",
+        "minimumBillableKwh": 0.0,
+        "levels": [
+          {
+            "id": "SEF",
+            "name": "Con subsidio",
+            "ranges": [
+              {
+                "upperLimitKwh": 40.0,
+                "fixedCharge": 3131.2071,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 239.6945
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 336.9045
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 80.0,
+                "fixedCharge": 3131.2071,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 239.6945
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 336.9045
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 120.0,
+                "fixedCharge": 3131.2071,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 243.3382
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 340.5482
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 500.0,
+                "fixedCharge": 3131.2071,
+                "tiers": [
+                  {
+                    "sizeKwh": 120.0,
+                    "pricePerKwh": 243.3382
+                  },
+                  {
+                    "sizeKwh": 30.0,
+                    "pricePerKwh": 246.789
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 343.999
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 700.0,
+                "fixedCharge": 3131.2071,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 246.3135
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 343.5235
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 1400.0,
+                "fixedCharge": 3131.2071,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 245.6516
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 342.8616
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": null,
+                "fixedCharge": 3131.2071,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 249.3435
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 346.5535
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "NOSEF",
+            "name": "Sin subsidio",
+            "ranges": [
+              {
+                "upperLimitKwh": 40.0,
+                "fixedCharge": 3131.2071,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 336.9045
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 80.0,
+                "fixedCharge": 3131.2071,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 336.9045
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 120.0,
+                "fixedCharge": 3131.2071,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 340.5482
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 500.0,
+                "fixedCharge": 3131.2071,
+                "tiers": [
+                  {
+                    "sizeKwh": 120.0,
+                    "pricePerKwh": 340.5482
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 343.999
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 700.0,
+                "fixedCharge": 3131.2071,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 343.5235
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 1400.0,
+                "fixedCharge": 3131.2071,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 342.8616
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": null,
+                "fixedCharge": 3131.2071,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 346.5535
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

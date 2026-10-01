@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-01T03:40:07+00:00",
+  "sources": [
+    {
+      "provider": "cooperativa-de-provision-de-obras-servicios-publicos-servicios-sociales-y-creditos-de-amboy-y-villa-amancay-ltda",
+      "variant": "ERSEP",
+      "sourceFile": "cooperativa-de-provision-de-obras-servicios-publicos-servicios-sociales-y-creditos-de-amboy-y-villa-amancay-ltda.pdf",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1vHLNeCBBMUe0WzBUle-dOcMTAEv4ltcO",
+      "priceDate": "2026-09-01",
+      "sourceHash": "35722c46c7ed46ce9ee445d5943220f5accbd7e4473dbf3552ccb6c636e1b866",
+      "schedule": {
+        "name": "Cooperativa de Amboy y Villa Amancay",
+        "validFrom": "2026-10-01",
+        "minimumBillableKwh": 0.0,
+        "levels": [
+          {
+            "id": "SEF",
+            "name": "Con subsidio",
+            "ranges": [
+              {
+                "upperLimitKwh": 120.0,
+                "fixedCharge": 7798.04,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 268.66
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 365.87
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 500.0,
+                "fixedCharge": 7798.04,
+                "tiers": [
+                  {
+                    "sizeKwh": 120.0,
+                    "pricePerKwh": 268.66
+                  },
+                  {
+                    "sizeKwh": 30.0,
+                    "pricePerKwh": 280.39
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 377.6
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 700.0,
+                "fixedCharge": 7798.04,
+                "tiers": [
+                  {
+                    "sizeKwh": 120.0,
+                    "pricePerKwh": 271.22
+                  },
+                  {
+                    "sizeKwh": 30.0,
+                    "pricePerKwh": 282.94
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 380.15
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": null,
+                "fixedCharge": 7798.04,
+                "tiers": [
+                  {
+                    "sizeKwh": 120.0,
+                    "pricePerKwh": 273.69
+                  },
+                  {
+                    "sizeKwh": 30.0,
+                    "pricePerKwh": 287.79
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 385.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "NOSEF",
+            "name": "Sin subsidio",
+            "ranges": [
+              {
+                "upperLimitKwh": 120.0,
+                "fixedCharge": 7798.04,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 365.87
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 500.0,
+                "fixedCharge": 7798.04,
+                "tiers": [
+                  {
+                    "sizeKwh": 120.0,
+                    "pricePerKwh": 365.87
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 377.6
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 700.0,
+                "fixedCharge": 7798.04,
+                "tiers": [
+                  {
+                    "sizeKwh": 120.0,
+                    "pricePerKwh": 368.43
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 380.15
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": null,
+                "fixedCharge": 7798.04,
+                "tiers": [
+                  {
+                    "sizeKwh": 120.0,
+                    "pricePerKwh": 370.9
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 385.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

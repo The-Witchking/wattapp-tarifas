@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-01T03:51:11+00:00",
+  "sources": [
+    {
+      "provider": "cooperativa-de-electricidad-obras-y-servicios-publicos-sobremonte-ltda",
+      "variant": "ERSEP",
+      "sourceFile": "cooperativa-de-electricidad-obras-y-servicios-publicos-sobremonte-ltda.pdf",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1LpvoIOq8ADwcApo-smiDpPBnqOSK_oyk",
+      "priceDate": "2026-09-01",
+      "sourceHash": "f312540b4cbf7845a017fbcc90e03b4dffa7ae32586c5743962e9f898b3fb3d3",
+      "schedule": {
+        "name": "Cooperativa de Sobremonte",
+        "validFrom": "2026-10-01",
+        "minimumBillableKwh": 0.0,
+        "levels": [
+          {
+            "id": "SEF",
+            "name": "Con subsidio",
+            "ranges": [
+              {
+                "upperLimitKwh": 500.0,
+                "fixedCharge": 4585.38,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 269.77
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 366.98
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 700.0,
+                "fixedCharge": 4585.38,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 272.14
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 369.35
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 1400.0,
+                "fixedCharge": 4585.38,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 274.43
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 371.64
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": null,
+                "fixedCharge": 4585.38,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 279.18
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 376.39
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "NOSEF",
+            "name": "Sin subsidio",
+            "ranges": [
+              {
+                "upperLimitKwh": 500.0,
+                "fixedCharge": 4585.38,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 366.98
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 700.0,
+                "fixedCharge": 4585.38,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 369.35
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 1400.0,
+                "fixedCharge": 4585.38,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 371.64
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": null,
+                "fixedCharge": 4585.38,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 376.39
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

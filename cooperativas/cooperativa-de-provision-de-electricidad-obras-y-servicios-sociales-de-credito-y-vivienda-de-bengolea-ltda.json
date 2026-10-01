@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-01T03:40:47+00:00",
+  "sources": [
+    {
+      "provider": "cooperativa-de-provision-de-electricidad-obras-y-servicios-sociales-de-credito-y-vivienda-de-bengolea-ltda",
+      "variant": "ERSEP",
+      "sourceFile": "cooperativa-de-provision-de-electricidad-obras-y-servicios-sociales-de-credito-y-vivienda-de-bengolea-ltda.pdf",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1hyQrBW-M4mkpqodIs5-C-7-F_gzX_oNt",
+      "priceDate": "2026-09-01",
+      "sourceHash": "483ea6ade3cbcade8f463149385d67050c6e2d20252b522f3cf5d15253e32b81",
+      "schedule": {
+        "name": "Cooperativa de Bengolea",
+        "validFrom": "2026-10-01",
+        "minimumBillableKwh": 0.0,
+        "levels": [
+          {
+            "id": "SEF",
+            "name": "Con subsidio",
+            "ranges": [
+              {
+                "upperLimitKwh": 120.0,
+                "fixedCharge": 3717.68,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 242.72
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 339.93
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 500.0,
+                "fixedCharge": 6139.1,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 253.05
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 350.26
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 700.0,
+                "fixedCharge": 6139.1,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 255.25
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 352.46
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": null,
+                "fixedCharge": 6139.1,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 257.37
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 354.58
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "NOSEF",
+            "name": "Sin subsidio",
+            "ranges": [
+              {
+                "upperLimitKwh": 120.0,
+                "fixedCharge": 3717.68,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 339.93
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 500.0,
+                "fixedCharge": 6139.1,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 350.26
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 700.0,
+                "fixedCharge": 6139.1,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 352.46
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": null,
+                "fixedCharge": 6139.1,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 354.58
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

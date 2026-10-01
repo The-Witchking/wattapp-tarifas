@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-01T03:44:30+00:00",
+  "sources": [
+    {
+      "provider": "hidroelectrica-san-jose-cooperativa-ltda",
+      "variant": "ERSEP",
+      "sourceFile": "hidroelectrica-san-jose-cooperativa-ltda.pdf",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=15YARZYpqU-5-4dFGjJbZQKrmel03zunj",
+      "priceDate": "2026-09-01",
+      "sourceHash": "a25c9a19db56ea6b0c2dc716bbe3927d31ab73ca081783d3fc165cfba5502aed",
+      "schedule": {
+        "name": "Cooperativa de José de la Quintana",
+        "validFrom": "2026-10-01",
+        "minimumBillableKwh": 0.0,
+        "levels": [
+          {
+            "id": "SEF",
+            "name": "Con subsidio",
+            "ranges": [
+              {
+                "upperLimitKwh": 500.0,
+                "fixedCharge": 1321.7,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 318.3
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 415.51
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 700.0,
+                "fixedCharge": 1321.7,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 321.37
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 418.58
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 1400.0,
+                "fixedCharge": 1321.7,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 324.35
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 421.56
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": null,
+                "fixedCharge": 1321.7,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 330.5
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 427.71
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "NOSEF",
+            "name": "Sin subsidio",
+            "ranges": [
+              {
+                "upperLimitKwh": 500.0,
+                "fixedCharge": 1321.7,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 415.51
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 700.0,
+                "fixedCharge": 1321.7,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 418.58
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 1400.0,
+                "fixedCharge": 1321.7,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 421.56
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": null,
+                "fixedCharge": 1321.7,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 427.71
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

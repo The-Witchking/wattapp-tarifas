@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-01T03:50:41+00:00",
+  "sources": [
+    {
+      "provider": "cooperativa-de-provision-de-energia-electrica-vivienda-credito-y-servicios-publicos-de-santa-rosa-de-calamuchita",
+      "variant": "ERSEP",
+      "sourceFile": "cooperativa-de-provision-de-energia-electrica-vivienda-credito-y-servicios-publicos-de-santa-rosa-de-calamuchita.pdf",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1FhRXocyUDPhWwzbp6_e3B_WaV6-kVvMm",
+      "priceDate": "2026-09-01",
+      "sourceHash": "2ac6d7ed16806eb0a680cb25f17dd3946f97cb6230679e3abda2c312edf606c5",
+      "schedule": {
+        "name": "Cooperativa de Santa Rosa de Calamuchita",
+        "validFrom": "2026-10-01",
+        "minimumBillableKwh": 35.0,
+        "levels": [
+          {
+            "id": "SEF",
+            "name": "Con subsidio",
+            "ranges": [
+              {
+                "upperLimitKwh": 500.0,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 253.81
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 351.02
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 700.0,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 255.82
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 353.03
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 1400.0,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 257.76
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 354.97
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": null,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 261.77
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 358.98
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "NOSEF",
+            "name": "Sin subsidio",
+            "ranges": [
+              {
+                "upperLimitKwh": 500.0,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 351.02
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 700.0,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 353.03
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 1400.0,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 354.97
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": null,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 358.98
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

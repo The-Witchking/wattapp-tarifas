@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-01T04:26:33+00:00",
+  "sources": [
+    {
+      "provider": "cooperativa-de-electricidad-y-servicios-publicos-de-mattaldi-ltda",
+      "variant": "ERSEP",
+      "sourceFile": "cooperativa-de-electricidad-y-servicios-publicos-de-mattaldi-ltda.pdf",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1LXaQgPYVQqKdYOcjDjXvF9q9QwYqVAxw",
+      "priceDate": "2026-09-01",
+      "sourceHash": "f51ab7adf8a128e3d94b91f7e6bbe8bb54c77070e92632cf3fadccf5a6e33781",
+      "schedule": {
+        "name": "Cooperativa de Mattaldi",
+        "validFrom": "2026-10-01",
+        "minimumBillableKwh": 0.0,
+        "levels": [
+          {
+            "id": "SEF",
+            "name": "Con subsidio",
+            "ranges": [
+              {
+                "upperLimitKwh": 500.0,
+                "fixedCharge": 19.07,
+                "tiers": [
+                  {
+                    "sizeKwh": 60.0,
+                    "pricePerKwh": 82.79
+                  },
+                  {
+                    "sizeKwh": 60.0,
+                    "pricePerKwh": 83.05
+                  },
+                  {
+                    "sizeKwh": 30.0,
+                    "pricePerKwh": 83.44
+                  },
+                  {
+                    "sizeKwh": 250.0,
+                    "pricePerKwh": 180.65
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 180.59
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 700.0,
+                "fixedCharge": 19.07,
+                "tiers": [
+                  {
+                    "sizeKwh": 60.0,
+                    "pricePerKwh": 82.9
+                  },
+                  {
+                    "sizeKwh": 60.0,
+                    "pricePerKwh": 83.16
+                  },
+                  {
+                    "sizeKwh": 30.0,
+                    "pricePerKwh": 83.55
+                  },
+                  {
+                    "sizeKwh": 250.0,
+                    "pricePerKwh": 180.76
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 180.7
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 1400.0,
+                "fixedCharge": 19.07,
+                "tiers": [
+                  {
+                    "sizeKwh": 60.0,
+                    "pricePerKwh": 83.01
+                  },
+                  {
+                    "sizeKwh": 60.0,
+                    "pricePerKwh": 83.27
+                  },
+                  {
+                    "sizeKwh": 30.0,
+                    "pricePerKwh": 83.66
+                  },
+                  {
+                    "sizeKwh": 250.0,
+                    "pricePerKwh": 180.87
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 180.81
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": null,
+                "fixedCharge": 19.07,
+                "tiers": [
+                  {
+                    "sizeKwh": 60.0,
+                    "pricePerKwh": 83.23
+                  },
+                  {
+                    "sizeKwh": 60.0,
+                    "pricePerKwh": 83.49
+                  },
+                  {
+                    "sizeKwh": 30.0,
+                    "pricePerKwh": 83.88
+                  },
+                  {
+                    "sizeKwh": 250.0,
+                    "pricePerKwh": 181.09
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 181.03
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "NOSEF",
+            "name": "Sin subsidio",
+            "ranges": [
+              {
+                "upperLimitKwh": 500.0,
+                "fixedCharge": 19.07,
+                "tiers": [
+                  {
+                    "sizeKwh": 60.0,
+                    "pricePerKwh": 180.0
+                  },
+                  {
+                    "sizeKwh": 60.0,
+                    "pricePerKwh": 180.26
+                  },
+                  {
+                    "sizeKwh": 280.0,
+                    "pricePerKwh": 180.65
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 180.59
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 700.0,
+                "fixedCharge": 19.07,
+                "tiers": [
+                  {
+                    "sizeKwh": 60.0,
+                    "pricePerKwh": 180.11
+                  },
+                  {
+                    "sizeKwh": 60.0,
+                    "pricePerKwh": 180.37
+                  },
+                  {
+                    "sizeKwh": 280.0,
+                    "pricePerKwh": 180.76
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 180.7
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 1400.0,
+                "fixedCharge": 19.07,
+                "tiers": [
+                  {
+                    "sizeKwh": 60.0,
+                    "pricePerKwh": 180.22
+                  },
+                  {
+                    "sizeKwh": 60.0,
+                    "pricePerKwh": 180.48
+                  },
+                  {
+                    "sizeKwh": 280.0,
+                    "pricePerKwh": 180.87
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 180.81
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": null,
+                "fixedCharge": 19.07,
+                "tiers": [
+                  {
+                    "sizeKwh": 60.0,
+                    "pricePerKwh": 180.44
+                  },
+                  {
+                    "sizeKwh": 60.0,
+                    "pricePerKwh": 180.7
+                  },
+                  {
+                    "sizeKwh": 280.0,
+                    "pricePerKwh": 181.09
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 181.03
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

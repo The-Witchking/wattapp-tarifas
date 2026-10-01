@@ -16,9 +16,25 @@ Una GitHub Action corre los días 3 y 18 de cada mes (o a mano) y hace esto:
 Los precios están sin impuestos. `schedule` usa los mismos campos que `TariffSchedule`
 en la app.
 
+## Cooperativas (ERSEP)
+En la misma corrida se actualizan los cuadros de las cooperativas eléctricas de Córdoba:
+
+1. `cooperativas/catalog.json`: las cooperativas de [ERSEP](https://ersep.cba.gov.ar/prestadores-por-gerencia/)
+   con su área de concesión y el link fijo de Drive a su cuadro. Se relee el día 3 de cada mes.
+2. Cada PDF usa la plantilla de ERSEP. Se interpreta la tarifa residencial, que viene **sin
+   subsidio** (nivel NOSEF). El nivel con subsidio (SEF) se calcula restando el diferencial
+   del apartado B.1 a los primeros 300, 150 o 200 kWh según el mes (Decreto 943/2025).
+3. Si el PDF no cambió pero empezó un mes con otro volumen subsidiado, el cuadro se regenera
+   con vigencia desde el 1 del mes.
+4. Se publican `cooperativas/<id>.json` (mismo formato que `tariffs.json`) y
+   `cooperativas/index.json`. Las que no se pudieron interpretar figuran en
+   `cooperativas/report.md` con el motivo. La Action falla solo si no se puede interpretar
+   más del 30 %.
+
 ## Uso local
 ```
 pip install -r requirements.txt
 python -m unittest discover -s tests -t .
-python -m scraper.main          # --force para reprocesar el último
+python -m scraper.main          # EPEC; --force para reprocesar el último
+python -m scraper.coops_main    # cooperativas; --catalog para releer ERSEP
 ```

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-01T03:49:27+00:00",
+  "sources": [
+    {
+      "provider": "cooperativa-de-servicios-publicos-de-rafael-garcia-ltda",
+      "variant": "ERSEP",
+      "sourceFile": "cooperativa-de-servicios-publicos-de-rafael-garcia-ltda.pdf",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1J_KuBN5slHCkfjg6gee4TQyAC61E36_g",
+      "priceDate": "2026-09-01",
+      "sourceHash": "9f6102980c9806d2bdf5188600bd314172c793a42a9c3f51e159dbbbd86a97b2",
+      "schedule": {
+        "name": "Cooperativa de Rafael García",
+        "validFrom": "2026-10-01",
+        "minimumBillableKwh": 25.0,
+        "levels": [
+          {
+            "id": "SEF",
+            "name": "Con subsidio",
+            "ranges": [
+              {
+                "upperLimitKwh": 500.0,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 259.57
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 356.78
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 700.0,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 260.73
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 357.94
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 1400.0,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 261.86
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 359.07
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": null,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": 150.0,
+                    "pricePerKwh": 264.19
+                  },
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 361.4
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "NOSEF",
+            "name": "Sin subsidio",
+            "ranges": [
+              {
+                "upperLimitKwh": 500.0,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 356.78
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 700.0,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 357.94
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": 1400.0,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 359.07
+                  }
+                ]
+              },
+              {
+                "upperLimitKwh": null,
+                "fixedCharge": 0.0,
+                "tiers": [
+                  {
+                    "sizeKwh": null,
+                    "pricePerKwh": 361.4
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
