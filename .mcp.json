@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "tracker": {
+      "type": "http",
+      "url": "https://tracker.palebluedot.com.ar/mcp",
+      "headers": {
+        "Authorization": "Bearer ${TRACKER_TOKEN_TARIF}"
+      }
+    }
+  }
+}
