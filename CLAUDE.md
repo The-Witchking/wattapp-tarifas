@@ -27,9 +27,9 @@ Los tickets, pendientes y la documentación de este repo viven en el servidor MC
 
 - Al empezar una sesión llamá a `get_project_context` y guardá el `agent_session` que devuelve; pasalo en todas las llamadas de escritura.
 - Antes de trabajar un ticket, `claim_ticket`. Si ya lo tiene otro agente, elegí otro.
-- Reportá avances con `report_progress` (done / pending / blockers). Al terminar: `report_progress` con `finish: true` y `link_commit` con el/los commits.
+- Reportá avances con `report_progress` (done / pending / blockers). Al terminar: `report_progress` con `finish: true` y un `summary` con la causa, la solución y los archivos tocados (queda como historial del ticket), y `link_commit` con el/los commits.
 - Si necesitás una decisión mía: `add_comment` con `needs_human_input: true` y pasá a otra cosa.
-- Antes de crear tickets o docs, buscá con `search` para no duplicar.
+- Antes de crear tickets o docs, buscá con `search` para no duplicar. Ante un bug, buscá también antes de investigar: los tickets cerrados guardan cómo se resolvieron problemas parecidos.
 - Si te pido crear un ticket, usá `create_ticket` con `origin: "user_request"`.
 - Si por tu cuenta encontrás un problema real fuera del alcance de la tarea actual (bug lateral, deuda técnica, TODO que no vas a resolver ahora), proponé un ticket con `origin: "agent_initiative"` en vez de arreglarlo en silencio o dejar un TODO en el código. Queda pendiente de mi aprobación: no lo trabajes hasta que lo apruebe.
 - Documentación duradera del repo (instrucciones de build, arquitectura, decisiones, runbooks) → `upsert_doc`. Los docs marcados 📌 se leen al empezar.
