@@ -27,8 +27,10 @@ Publicadas: 175 de 202 con cuadro eléctrico (0 enlaces no son cuadros eléctric
 | COOPERATIVA DE LOS ESPINILLOS | Rango ≤120: sin cargo fijo |
 | COOPERATIVA DE LOS ZORROS | Línea con importe no reconocida: 'c Cargo fijo mensual desde 120 kWh $ 2.779,92' |
 | COOPERATIVA DE LOZADA | No se encontró la fecha de vigencia |
+| COOPERATIVA DE OLIVA | HTTP Error 500: Internal Server Error |
 | COOPERATIVA DE ORDÓÑEZ | Rango ≤50: precio único con escalones |
 | COOPERATIVA DE PLAZA SAN FRANCISCO | Línea con importe no reconocida: '1,1 Consumos menores o iguales a 120 kWh mensuales' |
+| COOPERATIVA DE SAN BASILIO | HTTP Error 500: Internal Server Error |
 | COOPERATIVA DE SANTA EUFEMIA | Cuadro vencido: vigente desde 2025-09-01 |
 | COOPERATIVA DE TANCACHA | Se esperaban al menos 2 rangos, hay 0 |
 | COOPERATIVA DE TICINO | Se esperaban al menos 2 rangos, hay 1 |
